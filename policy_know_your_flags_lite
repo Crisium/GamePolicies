@@ -1,0 +1,83 @@
+# Privacy Policy - Know Your Flags Lite
+
+**App:** Know Your Flags Lite (Android, `com.axiomaragames.flagsfree`)
+**Last updated:** 3 September 2026
+
+Know Your Flags Lite is the free, ad-supported version of Know Your Flags. This policy
+describes what it does with your data. The paid version, Know Your Flags, contains no
+advertising and is covered by a separate policy.
+
+## What the app itself collects
+
+Nothing. The app has no user accounts, no sign-in, and no analytics. It does not ask for
+your name, email address, contacts, photos, location, or any other personal information.
+Your game progress and settings stay on your device and are never uploaded.
+
+## Advertising
+
+The app displays banner advertisements supplied by **Google AdMob** (the Google Mobile Ads
+SDK). This is the only third-party component in the app, and the only way any data leaves
+your device.
+
+To serve and measure ads, Google may collect and process:
+
+- your device's **advertising ID**, a resettable identifier you control in Android settings
+- your **IP address** and coarse, IP-derived location
+- device and app information, such as device model, operating system version, and which app
+  the ad was shown in
+- interactions with the ads themselves, such as views and taps
+
+Google uses this to select ads, limit how often the same ad is repeated, measure ad
+performance, and detect fraud. Google acts as an independent controller of this data. How
+Google handles it is described here:
+
+- Google Privacy Policy - https://policies.google.com/privacy
+- How Google uses information from sites or apps that use our services -
+  https://policies.google.com/technologies/partner-sites
+- Google's advertising partners - https://support.google.com/admob/answer/9012903
+
+We never receive your advertising ID or any other identifier from Google. We see only
+aggregate, anonymous reporting: how many ads were shown and what they earned.
+
+## Consent
+
+If you are in the European Economic Area, the United Kingdom, or Switzerland, the app shows
+a consent dialog before any ad is requested, using Google's User Messaging Platform. Nothing
+is requested from Google's ad servers until you have made a choice.
+
+You can change or withdraw your choice at any time from **Settings** inside the app. If you
+do not consent to personalised advertising, ads are still shown, but they are not tailored
+to you.
+
+## Permissions
+
+| Permission | Why |
+|---|---|
+| `INTERNET` | Requesting ads. The quiz itself works offline. |
+| `ACCESS_NETWORK_STATE` | Detecting whether you are online, so the app can hide the ad slot instead of showing an empty gap. |
+| `AD_ID`, `ACCESS_ADSERVICES_*` | Required by the Google Mobile Ads SDK to use the advertising ID and Android's Privacy Sandbox advertising APIs. |
+
+## Children
+
+This app is not directed at children and is not intended for users under the age of 13. It
+is a general-audience app that displays advertising. If you believe a child has used the app
+and you have concerns, please contact us at the address below.
+
+## Data retention and deletion
+
+We hold no data about you, so there is nothing for us to retain or delete. To reset the
+identifier Google uses for advertising, use **Settings > Google > Ads** on your device,
+where you can delete or reset your advertising ID and opt out of personalised advertising.
+
+## Changes to this policy
+
+If this policy changes, the updated version will be published at this address and the "Last
+updated" date above will change.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+## Licensing
+
+This app uses the Qt framework under the LGPLv3 licence.
