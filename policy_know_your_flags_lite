@@ -1,11 +1,12 @@
 # Privacy Policy - Know Your Flags Lite
 
-**App:** Know Your Flags Lite (Android, `com.axiomaragames.flagsfree`)
-**Last updated:** 3 September 2026
+**App:** Know Your Flags Lite for Android and iOS (`com.axiomaragames.flagsfree` on both)
+**Last updated:** 4 October 2026
 
 Know Your Flags Lite is the free, ad-supported version of Know Your Flags. This policy
-describes what it does with your data. The paid version, Know Your Flags, contains no
-advertising and is covered by a separate policy.
+describes what it does with your data, on Android phones and tablets and on iPhone and iPad.
+The paid version, Know Your Flags Pro, contains no advertising and is covered by a separate
+policy.
 
 ## What the app itself collects
 
@@ -21,11 +22,17 @@ your device.
 
 To serve and measure ads, Google may collect and process:
 
-- your device's **advertising ID**, a resettable identifier you control in Android settings
+- on Android, your device's **advertising ID**, a resettable identifier you control in
+  Android settings
 - your **IP address** and coarse, IP-derived location
 - device and app information, such as device model, operating system version, and which app
   the ad was shown in
 - interactions with the ads themselves, such as views and taps
+
+On iPhone and iPad, the app never asks for App Tracking Transparency permission, so iOS does
+not share your device's advertising identifier (IDFA) with the app or with Google. Ads on iOS
+may also use Apple's SKAdNetwork, which lets advertisers count app installs that came from an
+ad without identifying you or your device.
 
 Google uses this to select ads, limit how often the same ad is repeated, measure ad
 performance, and detect fraud. Google acts as an independent controller of this data. How
@@ -43,19 +50,26 @@ aggregate, anonymous reporting: how many ads were shown and what they earned.
 
 If you are in the European Economic Area, the United Kingdom, or Switzerland, the app shows
 a consent dialog before any ad is requested, using Google's User Messaging Platform. Nothing
-is requested from Google's ad servers until you have made a choice.
+is requested from Google's ad servers until you have made a choice. This works the same way
+on Android and iOS.
 
-You can change or withdraw your choice at any time from **Settings** inside the app. If you
-do not consent to personalised advertising, ads are still shown, but they are not tailored
-to you.
+You can change or withdraw your choice at any time with the **Privacy settings** button in
+the app's Settings screen. If you do not consent to personalised advertising, ads are still
+shown, but they are not tailored to you.
 
 ## Permissions
+
+On Android, the app uses these permissions:
 
 | Permission | Why |
 |---|---|
 | `INTERNET` | Requesting ads. The quiz itself works offline. |
 | `ACCESS_NETWORK_STATE` | Detecting whether you are online, so the app can hide the ad slot instead of showing an empty gap. |
 | `AD_ID`, `ACCESS_ADSERVICES_*` | Required by the Google Mobile Ads SDK to use the advertising ID and Android's Privacy Sandbox advertising APIs. |
+
+On iPhone and iPad, the app asks for no permissions at all. It does not show the App
+Tracking Transparency prompt, and it does not use your location, camera, microphone,
+contacts, or photos.
 
 ## Children
 
@@ -65,9 +79,14 @@ and you have concerns, please contact us at the address below.
 
 ## Data retention and deletion
 
-We hold no data about you, so there is nothing for us to retain or delete. To reset the
-identifier Google uses for advertising, use **Settings > Google > Ads** on your device,
-where you can delete or reset your advertising ID and opt out of personalised advertising.
+We hold no data about you, so there is nothing for us to retain or delete.
+
+- **Android:** to reset the identifier Google uses for advertising, use **Settings > Google >
+  Ads** on your device, where you can delete or reset your advertising ID and opt out of
+  personalised advertising.
+- **iPhone and iPad:** the app never asks to track you, so your advertising identifier is
+  not shared. You can also stop all apps from asking, under **Settings > Privacy & Security >
+  Tracking**.
 
 ## Changes to this policy
 
