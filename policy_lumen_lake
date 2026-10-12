@@ -63,9 +63,15 @@ Other players of Lumen Lake can see the World Scores. Each entry is shown with i
 
 Only your best score for each leaderboard is kept, and it replaces your previous one when you beat it.
 
-You can remove all of your World Scores entries at any time using the REMOVE ME FROM WORLD SCORES control on the app's settings screen. While you are signed in, your next Lantern Rush adds you again. To stop taking part, do not sign in with Google Play Games. You can disconnect Lumen Lake from your Google account in your Google Play Games or Google account settings.
-
 The World Scores are stored with Google Firebase (Cloud Firestore and Firebase Authentication), which Google operates on our behalf. We use them only to run the leaderboards and do not sell or share them for any other purpose.
+
+### Deleting your World Scores account
+
+You can delete your World Scores account at any time using the DELETE MY WORLD SCORES ACCOUNT control on the app's settings screen. This deletes all of your World Scores entries and the user identifier Firebase Authentication created for you, and signs you out of the World Scores. Lumen Lake then sends nothing more until you choose to sign in again on the scores screen, which starts a new account.
+
+You can also ask us to delete your World Scores account and entries without using the app: email [axiomaragames@gmail.com](mailto:axiomaragames@gmail.com) with the subject "Delete my Lumen Lake account" and the Google Play Games name shown on your entries. We delete them within 30 days and confirm by email. Nothing is kept after deletion.
+
+You can also disconnect Lumen Lake from your Google account in your Google Play Games or Google account settings.
 
 ## 4. Advertising
 
