@@ -1,6 +1,6 @@
 # Privacy Policy for Robo Rumble
 
-**Effective Date: October 21, 2026**
+**Effective Date: October 22, 2026**
 
 Thank you for playing Robo Rumble.
 
@@ -8,7 +8,7 @@ Your privacy is important to us. This Privacy Policy explains how information ma
 
 ## 1. Information We Collect
 
-Robo Rumble does not require you to create an account, and we do not ask you for information such as your name, email address, phone number or postal address.
+Robo Rumble does not require you to create an account, and we do not ask you for information such as your email address, phone number or postal address.
 
 Robo Rumble uses third-party advertising services, including Google AdMob. These services may automatically collect certain information from your device in order to provide advertisements, measure their performance, prevent fraud, and maintain the advertising service.
 
@@ -23,6 +23,8 @@ Depending on your device, settings, location, and consent choices, this informat
 
 We do not directly receive information that identifies you personally from Google AdMob.
 
+If you choose to sign in with Google Play Games, Robo Rumble also takes part in the World Scores leaderboards. The information this involves is described in section 3.
+
 The game's music and sounds are included with the app. Robo Rumble does not use your device's microphone, camera, contacts or location services.
 
 ## 2. Information Stored on Your Device
@@ -33,12 +35,43 @@ Robo Rumble keeps a record of your play so that your best scores, awards and set
 * The awards you have won and when each was won
 * Running totals of your play that awards are won by, such as the runs you have played, the distance you have driven, the time you have played, the coins, batteries, tools and power-ups you have collected, and the robots you have wrecked
 * Your sound volumes, your choice of music and your difficulty
+* While you are signed in to Google Play Games, your best score at each difficulty until it has been sent to the World Scores (see section 3)
 
 This information is stored on your own device. It is not transmitted to us or to any third party, and we have no access to it. If your device backs up its apps' data (on Android, to your Google account), it may include this information in that backup, which is kept by your device's provider, not by us.
 
-You can erase your best scores and awards at any time using the RESET PROGRESS control on the app's settings screen. Your sound volumes and settings are kept until you change them. Uninstalling the app erases everything stored on your device.
+You can erase your best scores and awards at any time using the RESET PROGRESS control on the app's settings screen. Your sound volumes and settings are kept until you change them. That control does not remove your World Scores entries; section 3 explains how to remove those. Uninstalling the app erases everything stored on your device.
 
-## 3. Advertising
+## 3. World Scores
+
+World Scores are online leaderboards where your runs' scores are compared with other players', at each difficulty (Easy, Normal and Hard), worldwide and in your own country, for all time, this month, this week and today. Taking part is optional: you take part only if you sign in with Google Play Games.
+
+While you are signed in, Robo Rumble sends your best scores to the World Scores after each run. For each entry it sends:
+
+* Your Google Play Games display name
+* Your score and the number of coins you collected
+* The difficulty you played at
+* Your country, as a two-letter code
+* Your device's platform (Android or iOS)
+* A user identifier created for the app by Google Firebase Authentication
+* The date and time the entry was saved
+
+Your country is taken from your SIM card, or else from the mobile network you are connected to, or else from your device's language and region settings. Robo Rumble does not use GPS or your device's location services to find it.
+
+Other players of Robo Rumble can see the World Scores. Each entry is shown with its rank, your Play Games name, your score and your country's flag.
+
+Only your best score for each leaderboard is kept, and it replaces your previous one when you beat it.
+
+The World Scores are stored with Google Firebase (Cloud Firestore and Firebase Authentication), which Google operates on our behalf. We use them only to run the leaderboards and do not sell or share them for any other purpose.
+
+### Deleting your World Scores account
+
+You can delete your World Scores account at any time using the DELETE WORLD SCORES ACCOUNT control in the ABOUT card on the app's settings screen. This deletes all of your World Scores entries and the user identifier Firebase Authentication created for you, and signs you out of the World Scores. Robo Rumble then sends nothing more until you choose to sign in again on the high scores screen, which starts a new account.
+
+You can also ask us to delete your World Scores account and entries without using the app: email [axiomaragames@gmail.com](mailto:axiomaragames@gmail.com) with the subject "Delete my Robo Rumble account" and the Google Play Games name shown on your entries. We delete them within 30 days and confirm by email. Nothing is kept after deletion.
+
+You can also disconnect Robo Rumble from your Google account in your Google Play Games or Google account settings.
+
+## 4. Advertising
 
 Robo Rumble is supported by advertisements provided through Google AdMob.
 
@@ -54,13 +87,13 @@ For more information about how Google uses information from apps that use its se
 
 https://policies.google.com/technologies/partner-sites
 
-## 4. Internet Access
+## 5. Internet Access
 
-Robo Rumble can be played without an internet connection. Advertisements and rewarded videos need one. While your device is offline, rewarded videos are unavailable, so awards earned in a run can't be collected.
+Robo Rumble can be played without an internet connection. Advertisements, rewarded videos and the World Scores need one. While your device is offline, rewarded videos are unavailable, so awards earned in a run can't be collected, and the World Scores wait until you are back online.
 
-The app does not check your connection separately. It only notices that it is offline when an advertisement cannot reach the internet. It does not look at which network you are connected to.
+The app does not check your connection separately. It only notices that it is offline when an advertisement or a World Scores request cannot reach the internet. It does not look at which network you are connected to.
 
-## 5. Consent and Privacy Choices
+## 6. Consent and Privacy Choices
 
 Where required by applicable law, users may be presented with a consent message that allows them to make choices regarding the use of their information for advertising purposes, including declining consent.
 
@@ -68,7 +101,7 @@ Where such a choice has been presented, it can be revisited at any time using th
 
 Users may also be able to control advertising personalization and advertising identifiers through their device privacy settings.
 
-## 6. Children's Privacy
+## 7. Children's Privacy
 
 Robo Rumble is a general-audience game.
 
@@ -78,19 +111,23 @@ Advertising services used by the app may process information as described in thi
 
 Parents or guardians who have questions regarding their child's privacy may contact us using the email address provided below.
 
-## 7. Data Security
+## 8. Data Security
 
-We do not operate our own servers, and Robo Rumble sends none of your play to us.
+We do not operate our own servers, and Robo Rumble sends none of your play to us. The World Scores are kept with Google Firebase, and only the player who saved an entry can change or remove it.
 
-Information processed by third-party services such as Google AdMob is handled according to their respective privacy and security practices.
+Information processed by third-party services such as Google AdMob, Google Play Games and Google Firebase is handled according to their respective privacy and security practices.
 
 Information sent by the app to these services is encrypted in transit.
 
-## 8. Third-Party Services
+## 9. Third-Party Services
 
 Robo Rumble uses third-party services that may collect or process information according to their own privacy policies:
 
 **Google AdMob**: advertising, including rewarded video advertising, advertising measurement, analytics related to advertising, and fraud prevention. Its consent message is provided by Google's User Messaging Platform.
+
+**Google Play Games Services**: the optional sign-in and the Play Games name used for the World Scores.
+
+**Google Firebase (Authentication and Cloud Firestore)**: the World Scores leaderboards.
 
 Google Privacy Policy:
 https://policies.google.com/privacy
@@ -98,26 +135,29 @@ https://policies.google.com/privacy
 Information about Google's use of data from apps using Google services:
 https://policies.google.com/technologies/partner-sites
 
-## 9. In-App Purchases
+Firebase privacy information:
+https://firebase.google.com/support/privacy
+
+## 10. In-App Purchases
 
 Robo Rumble does not currently offer in-app purchases.
 
 If this changes in the future, this Privacy Policy will be updated where necessary.
 
-## 10. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 
 We may update this Privacy Policy if the app, advertising services, legal requirements, or our data practices change.
 
 Any revised Privacy Policy will be posted with an updated Effective Date.
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have any questions about this Privacy Policy, please contact:
 
 **Axiomara Games**
 [axiomaragames@gmail.com](mailto:axiomaragames@gmail.com)
 
-## 12. Licenses
+## 13. Licenses
 
 This application uses the Qt framework.
 
