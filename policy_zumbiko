@@ -1,1 +1,156 @@
 
+# Privacy Policy for Zumbiko
+
+**Effective Date: October 28, 2026**
+
+Thank you for playing Zumbiko.
+
+Your privacy is important to us. This Privacy Policy explains how information may be collected and used when you use the Zumbiko mobile application.
+
+Zumbiko is a maths game made by Axiomara Games (Peter Wraae Marino). It is intended for players aged 13 and over.
+
+## 1. Information We Collect
+
+Zumbiko does not require you to create an account, and we do not ask you for information such as your name, email address, phone number or postal address.
+
+Zumbiko uses third-party advertising services, including Google AdMob. These services may automatically collect certain information from your device in order to provide advertisements, measure their performance, prevent fraud, and maintain the advertising service.
+
+Depending on your device, settings, location, and consent choices, this information may include:
+
+* IP address
+* Device and advertising identifiers
+* General device information
+* App interactions, such as app launches, taps, and ad interactions
+* Diagnostic and performance information
+* Approximate location derived from information such as your IP address
+
+We do not directly receive information that identifies you personally from Google AdMob.
+
+The game's music and sounds are included with the app. Zumbiko does not use your device's microphone, camera, contacts or location services.
+
+On Android, the crowd at the school waves the flag of your country. Your country is taken from your SIM card, or else from the mobile network you are connected to; this needs no permission. It is used only on your device to choose the flag, and it is neither stored nor sent anywhere.
+
+## 2. Information Stored on Your Device
+
+Zumbiko keeps a record of your play so that your progress, awards and settings are there the next time you play. This includes:
+
+* The highest grade you have opened, and the best stars you have earned in each grade
+* Your coins, the game's own currency, which are earned by playing and can't be bought
+* Whether you last played as the boy or the girl
+* The awards you have won, and those you have earned but not yet collected
+* Running totals of your play that awards are won by, such as the right answers you have given, your best streaks, the coins you have collected, the hurdles and bars you have passed, the power-ups you have taken and the grades you have passed
+* Your sound volumes, the difficulty you have chosen and your display settings
+
+This information is stored on your own device. It is not transmitted to us or to any third party, and we have no access to it. If your device backs up its apps' data (on Android, to your Google account), it may include this information in that backup, which is kept by your device's provider, not by us.
+
+You can erase your progress, coins, stars and awards at any time using the START AGAIN control on the app's settings screen. Your sound volumes, difficulty and display settings are kept until you change them. Uninstalling the app erases everything stored on your device.
+
+## 3. Advertising
+
+Zumbiko is supported by advertisements provided through Google AdMob.
+
+The app shows banner advertisements on its menu, on its settings and about screens, and on the card shown at the end of a grade. No advertisement is shown while you play.
+
+The app also offers optional rewarded video advertisements. At the end of a grade, watching one to the end collects the awards you have earned. Watching a rewarded video is always your choice. If you decline, or no video is available, the awards you have earned are kept and wait for you to collect them at the end of a later grade. Nothing else in the game needs a video.
+
+Zumbiko asks Google AdMob to show only advertisements rated suitable for general audiences (G), and to apply its strictest data restrictions to every advertising request. As a result, advertisements in Zumbiko are not personalized, and Google limits the information it collects and how it uses it.
+
+Google and its advertising partners may use device identifiers and other information to provide and measure advertising and to detect and prevent fraud.
+
+For more information about how Google uses information from apps that use its services, please see Google's privacy information:
+
+https://policies.google.com/technologies/partner-sites
+
+## 4. Internet Access
+
+Zumbiko can be played without an internet connection. Advertisements and rewarded videos need one. While your device is offline, rewarded videos are unavailable, and the awards you have earned wait until you can collect them.
+
+The app does not check your connection separately. It only notices that it is offline when an advertisement cannot reach the internet. It does not look at which network you are connected to.
+
+## 5. Consent and Privacy Choices
+
+Where required by applicable law, users may be presented with a consent message that allows them to make choices regarding the use of their information for advertising purposes.
+
+Where such a choice has been presented, it can be revisited at any time using the PRIVACY control on the app's settings screen.
+
+Users may also be able to control advertising personalization and advertising identifiers through their device privacy settings.
+
+## 6. Children's Privacy
+
+Zumbiko is intended for players aged 13 and over. It is not directed at children under 13.
+
+We do not knowingly collect personal information from children under 13.
+
+Parents or guardians who have questions regarding their child's privacy may contact us using the email address provided below.
+
+## 7. Data Security
+
+We do not operate our own servers, and Zumbiko sends nothing to us.
+
+Information processed by third-party services such as Google AdMob is handled according to their respective privacy and security practices.
+
+Information sent by the app to these services is encrypted in transit.
+
+## 8. Third-Party Services
+
+Zumbiko uses third-party services that may collect or process information according to their own privacy policies:
+
+**Google AdMob**: advertising, including rewarded video advertising, advertising measurement, analytics related to advertising, and fraud prevention. Its consent message is provided by Google's User Messaging Platform.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+Information about Google's use of data from apps using Google services:
+https://policies.google.com/technologies/partner-sites
+
+## 9. In-App Purchases
+
+Zumbiko does not currently offer in-app purchases. Coins can't be bought: they are earned only by playing.
+
+If this changes in the future, this Privacy Policy will be updated where necessary.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy if the app, advertising services, legal requirements, or our data practices change.
+
+Any revised Privacy Policy will be posted with an updated Effective Date.
+
+## 11. Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Axiomara Games**
+[axiomaragames@gmail.com](mailto:axiomaragames@gmail.com)
+
+## 12. Credits
+
+The title, buttons, signs and chalkboard, the scenery, the road, the school and its crowd, the power-ups, the boy and the girl, the sound effects and the music, and the app's icon were made with Magnific (magnific.ai).
+
+The boy's and the girl's moves come from Mixamo (mixamo.com).
+
+## 13. Licenses
+
+This application uses the Qt framework.
+
+Qt is licensed under the GNU Lesser General Public License version 3 (LGPLv3).
+
+Qt is © The Qt Company Ltd. and other contributors.
+
+Qt source code:
+https://code.qt.io/
+https://www.qt.io/
+
+GNU LGPLv3:
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+This application reads its pictures with libwebp, © Google Inc., licensed under the BSD 3-Clause License:
+https://chromium.googlesource.com/webm/libwebp
+
+This application uses the Lilita One typeface by Juan Montoreano, and the Cabin Sketch typeface, © The Cabin Project Authors (Pablo Impallari), both licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org/
+
+This application uses flag-icons by Panayiotis Lipiridis, licensed under the MIT License:
+https://github.com/lipis/flag-icons
+
+This application uses miniaudio for audio playback, released into the public domain (Unlicense) or, at your option, under the MIT No Attribution licence:
+https://miniaud.io/
