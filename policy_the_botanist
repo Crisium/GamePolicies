@@ -1,0 +1,71 @@
+# The Botanist — Privacy Policy
+
+**Effective date:** November 8, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+The Botanist ("the app") is a plant encyclopedia and care companion: plant profiles, care guides, a plant finder, a plant doctor, plant identification from a photo, and care reminders for your own plants. This policy explains what information the app handles, and the licences of the software it is built with.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you add to it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **My Collection:** the plants you add, with the names and locations you give them
+- **Care reminders:** your reminders, when they are due and when you last did them
+- **Journal:** the notes and photos you add to your plants
+- **Favorites:** the plants you save
+- **Settings:** your units (°C or °F), notification settings, and how many free plant identifications you have used today
+
+This information is never sent to us or to anyone else. It is deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos and plant identification:** when you identify a plant, you take a photo with your camera app or choose one from your device. The photo is analysed on your device by a model built into the app. It is never uploaded. The app only uses the camera when you ask it to take a photo.
+
+**Notifications:** if you allow them, the app shows one daily notification listing the care reminders that are due. It is created on your device; no notification server is involved.
+
+**Sharing a plant:** when you use Share on a plant, its text is copied to your device's clipboard. Nothing is sent anywhere unless you paste it yourself.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All plant profiles, guides and photos are built into the app.
+- It does not collect analytics, crash reports, location, contacts or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your microphone.
+
+## Children
+
+The app is a general reference about plants and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Licences
+
+The Botanist is built with the following software, used under its licence.
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+## ONNX Runtime
+
+Plant identification runs on ONNX Runtime, © Microsoft Corporation, under the **MIT License**: https://github.com/microsoft/onnxruntime/blob/main/LICENSE
