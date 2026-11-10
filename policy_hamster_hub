@@ -1,0 +1,68 @@
+# Hamster Hub — Privacy Policy
+
+**Effective date:** November 10, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+Hamster Hub ("the app") is a hamster care guide and companion: species profiles, care guides, a food checker, a symptom checker, a quiz and tips, and a profile, weight log and care reminders for your own hamsters. This policy explains what information the app handles, and the licences of the software it is built with.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you add to it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **My Hamsters:** the hamsters you add, with the name, species, sex, birthday and photo you give them, and their weight log
+- **Care reminders:** your reminders, when they are due and when you last did them
+- **Favorites, checklist and quiz:** the species you save, the checklist items you tick and your best quiz scores
+- **Settings:** your notification settings and whether you have seen the welcome screen
+
+This information is never sent to us or to anyone else. It is deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos:** when you give a hamster a photo, you choose one from your device. The app keeps a copy in its own storage on your device. It is never uploaded.
+
+**Notifications:** if you allow them, the app shows one daily notification listing the care reminders that are due. It is created on your device; no notification server is involved.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All profiles, guides and photos are built into the app.
+- It does not collect analytics, crash reports, location, contacts or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your camera or microphone.
+
+## Children
+
+The app is a general reference about hamster care and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Licences
+
+Hamster Hub is built with the following software, used under its licence.
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+## Fira Sans Condensed
+
+The app's font is Fira Sans Condensed, © The Mozilla Foundation and Telefonica S.A., under the **SIL Open Font License 1.1**: https://openfontlicense.org
