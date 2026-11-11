@@ -16,25 +16,33 @@ The app keeps a few things on your device so it can remember them between uses: 
 
 ## 3. Camera and Photos
 
-The Identify feature can use a photo you take with your device's camera app or choose from your gallery. The photo is compared with the atlas images on your device and is never uploaded. Turtle Atlas does not ask for permission to use the camera itself: taking a photo opens your device's own camera app, which hands the one photo back.
+The Identify feature can use a photo you take with your device's camera app or choose from your gallery. The photo is identified on your device by a built-in image recognition model and is never uploaded. Turtle Atlas does not ask for permission to use the camera itself: taking a photo opens your device's own camera app, which hands the one photo back.
 
-## 4. Internet Access
+## 4. Purchases
 
-Turtle Atlas works fully offline. The only time it opens anything online is when you tap the link to this policy, which opens in your web browser.
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
 
-## 5. Children's Privacy
+## 5. Internet Access
+
+Turtle Atlas works fully offline. It goes online only to ask Google Play about the purchase described above, and when you tap the link to this policy, which opens in your web browser.
+
+## 6. Children's Privacy
 
 Turtle Atlas is suitable for all ages. It does not knowingly collect personal information from anyone, including children under 13.
 
-## 6. Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this policy from time to time. Changes take effect when the updated policy is published at this address.
 
-## 7. Contact Us
+## 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact:
 
 [axiomaragames@gmail.com](mailto:axiomaragames@gmail.com)
+
+# Identification Model
+
+The Identify feature uses an image recognition model made for Turtle Atlas. It was trained with photographs shared on [iNaturalist](https://www.inaturalist.org), [GBIF](https://www.gbif.org) and [Wikimedia Commons](https://commons.wikimedia.org) under CC0, CC BY or CC BY-SA licences, with the help of [BioCLIP 2](https://huggingface.co/imageomics/bioclip-2) (MIT licence) by the Imageomics Institute. The model runs with [ONNX Runtime](https://onnxruntime.ai) (MIT licence, © Microsoft Corporation). We thank the thousands of observers whose photographs made it possible.
 
 # Photo Credits
 
@@ -43,10 +51,24 @@ Turtle Atlas uses photographs shared by observers on [iNaturalist](https://www.i
 Some main images, marked "AI illustration", were created for Turtle Atlas with an AI image generator because no suitable licensed photograph was available. The same applies to the title artwork, the logo, the world map and the anatomy drawings.
 
 
+### Adanson's Mud Turtle (*Pelusios adansonii*)
+
+- Main image: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108397078)
+- Photo 2: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/170339720)
+- Photo 3: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/170337509)
+
+### African Dwarf Mud Turtle (*Pelusios nanus*)
+
+- Main image: © Werner Conradie, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://zenodo.org/records/13270134)
+
 ### African Helmeted Turtle (*Pelomedusa subrufa*)
 
 - Main image: © Charlotte Kirchner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/27265694)
 - Photo 2: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/86647503)
+
+### African Keeled Mud Turtle (*Pelusios carinatus*)
+
+- Main image: © Václav Gvoždík, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://vertebrate-zoology.arphahub.com/article/95681/)
 
 ### African Softshell Turtle (*Trionyx triunguis*)
 
@@ -62,7 +84,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © novvictan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/563935395)
 - Photo 2: © Dean Stavrides, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/234829117)
-- Photo 3: © novvictan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/563935759)
 
 ### Alabama Red-bellied Cooter (*Pseudemys alabamensis*)
 
@@ -73,8 +94,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Alamos Mud Turtle (*Kinosternon alamosae*)
 
 - Main image: © Francisco Farriols Sarabia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/46960861)
-- Photo 2: © Adrian Bojorquez, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/250277308)
-- Photo 3: © Bruno Frías Morales, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/715912138)
+
+### Alcedo Volcano Giant Tortoise (*Chelonoidis vandenburghi*)
+
+- Main image: © Carrie Seltzer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/31286110)
+- Photo 2: © Carrie Seltzer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/31286114)
+- Photo 3: © Carrie Seltzer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/31286170)
 
 ### Aldabra Giant Tortoise (*Aldabrachelys gigantea*)
 
@@ -88,11 +113,16 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © Tina Li, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/381196264)
 - Photo 2: © Matěj Baťha, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/187612074)
 
+### Amazon Toad-headed Turtle (*Mesoclemmys raniceps*)
+
+- Main image: © Vincent A. Vos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/12220598)
+- Photo 2: © Ramon and Suzanne Vargas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/14007155)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/114582794)
+
 ### Amur Softshell Turtle (*Pelodiscus maackii*)
 
 - Main image: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/5596895)
 - Photo 2: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/5611172)
-- Photo 3: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/40728408)
 
 ### Angulate Tortoise (*Chersina angulata*)
 
@@ -107,10 +137,18 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Juan Carlos Fonseca Mata, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/40937459)
 - Photo 3: © Gustavo Alfredo Chávez Flores, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2048185)
 
+### Arakan Forest Turtle (*Heosemys depressa*)
+
+- Main image: Philbert Charles Berjeau, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heosemys_depressa.jpg)
+
 ### Arizona Mud Turtle (*Kinosternon stejnegeri*)
 
 - Main image: © Richard Fray, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/27410209)
 - Photo 2: © nmoorhatch, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/584305162)
+
+### Arnhem Land Snake-necked Turtle (*Chelodina burrungandjii*)
+
+- Main image: Faendalimas, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=36900157)
 
 ### Asian Forest Tortoise (*Manouria emys*)
 
@@ -130,17 +168,25 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2852032)
 
+### Asian Narrow-headed Softshell Turtle (*Chitra chitra*)
+
+- Main image: © RatioTile, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Asian_narrow-headed_softshell_turtle.jpg)
+
 ### Assam Roofed Turtle (*Pangshura sylhetensis*)
 
 - Main image: © Rejoice Gassah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/176449534)
 - Photo 2: © Rejoice Gassah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/176449598)
 - Photo 3: © Subhadra Devi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/53562061)
 
+### Aubry's Flapshell Turtle (*Cycloderma aubryi*)
+
+- Main image: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107154473)
+- Photo 2: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/153772165)
+
 ### Baja California Slider (*Trachemys nebulosa*)
 
 - Main image: © BuckyD, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/66277776)
-- Photo 2: © Lic. Kevin Miguel Garibaldi Fierro, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/337771461)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/285425081)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/285425081)
 
 ### Barbour's Map Turtle (*Graptemys barbouri*)
 
@@ -157,15 +203,17 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Bell's Hinge-back Tortoise (*Kinixys belliana*)
 
 - Main image: © Tommy Andriollo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/253606814)
-- Photo 2: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/261995800)
-- Photo 3: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/261995789)
-- Photo 4: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/261995748)
+- Photo 2: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/261995789)
 
 ### Big Bend Slider (*Trachemys gaigeae*)
 
 - Main image: © Fishes of Texas team, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243402455)
 - Photo 2: © Fishes of Texas team, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243391608)
 - Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/224790254)
+
+### Big-headed Amazon River Turtle (*Peltocephalus dumerilianus*)
+
+- Main image: © Enrique Salazar, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/413804963)
 
 ### Big-headed Pantanal Swamp Turtle (*Acanthochelys macrocephala*)
 
@@ -203,7 +251,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Rohan Uddin Fahad, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/656636)
 - Photo 2: © Mar11, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17579621)
-- Photo 3: © Vivaan jalan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/160796108)
 
 ### Black Spine-necked Swamp Turtle (*Acanthochelys spixii*)
 
@@ -217,11 +264,15 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1436074)
 - Photo 3: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1831405)
 
+### Black-breasted Leaf Turtle (*Geoemyda spengleri*)
+
+- Main image: Spengleri at German Wikipedia, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chinesische_Zackenerdschildkr%C3%B6te_(Geoemyda_spengleri).jpg)
+- Photo 2: © Viva.Chelonia, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoemyda_spengleri.jpg)
+
 ### Black-knobbed Map Turtle (*Graptemys nigrinoda*)
 
 - Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/114360603)
 - Photo 2: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/114360623)
-- Photo 3: © Tom Field, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/170621037)
 
 ### Blanding's Turtle (*Emydoidea blandingii*)
 
@@ -239,6 +290,15 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Jose Antonio Aranda Pineda, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/5563716)
 
+### Bourret's Box Turtle (*Cuora bourreti*)
+
+- Main image: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/65195133)
+- Photo 2: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/65195135)
+
+### Branderhorst's Snapping Turtle (*Elseya branderhorsti*)
+
+- Main image: © Elseya branderhorsti, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elseya_branderhorsti.jpg)
+
 ### Brazilian Radiolated Swamp Turtle (*Acanthochelys radiolata*)
 
 - Main image: © Bill Crins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/32694311)
@@ -248,8 +308,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Brazilian Snake-necked Turtle (*Hydromedusa maximiliani*)
 
 - Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/180838733)
-- Photo 2: © Rosario Douglas, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/609050369)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/180838687)
 
 ### Broad-shelled Turtle (*Chelodina expansa*)
 
@@ -263,10 +321,31 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Scott Beazley, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/142457)
 - Photo 3: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/22740293)
 
+### Brown Roofed Turtle (*Pangshura smithii*)
+
+- Main image: © Ashwin Viswanathan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/254991817)
+
+### Burmese Eyed Turtle (*Morenia ocellata*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/249500325)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/249500363)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/249500231)
+
 ### Burmese Flapshell Turtle (*Lissemys scutata*)
 
 - Main image: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/6100856)
-- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/244623143)
+
+### Burmese Narrow-headed Softshell Turtle (*Chitra vandijki*)
+
+- Main image: © Hong Xiaoyou, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://zenodo.org/records/11390610)
+
+### Burmese Peacock Softshell Turtle (*Nilssonia formosa*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/61008816)
+
+### Burmese Roofed Turtle (*Batagur trivittata*)
+
+- Main image: Philbert Charles Berjeau, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Batagur_trivittata.jpg)
 
 ### Burmese Star Tortoise (*Geochelone platynota*)
 
@@ -286,8 +365,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Cape Terrapin (*Pelomedusa galeata*)
 
 - Main image: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/332867263)
-- Photo 2: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/332867512)
-- Photo 3: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/332867511)
 
 ### Caspian Turtle (*Mauremys caspica*)
 
@@ -305,13 +382,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Central American River Turtle (*Dermatemys mawii*)
 
 - Main image: AI illustration made for Turtle Atlas
-- Photo 2: © Alfonsobouchot, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/9119769)
-- Photo 3: © Matěj Baťha, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/9119768)
+- Photo 2: © Matěj Baťha, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/9119768)
 
 ### Central American Snapping Turtle (*Chelydra rossignonii*)
 
 - Main image: © Eugenio Padilla, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/18365205)
-- Photo 2: © Eugenio Padilla, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/18365448)
 
 ### Central Antillean Slider (*Trachemys stejnegeri*)
 
@@ -325,6 +400,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Daniel Pineda Vera, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/109651372)
 - Photo 3: © Matteo Cassella, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/62759721)
 
+### Cerro Azul Giant Tortoise (*Chelonoidis vicina*)
+
+- Main image: © ajott, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108093587)
+- Photo 2: Don Johnston, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/118074409)
+- Photo 3: © ajott, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108093591)
+
 ### Chaco Side-necked Turtle (*Acanthochelys pallidipectoris*)
 
 - Main image: © Patricio Cowper Coles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/143027803)
@@ -333,9 +414,9 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Chaco Tortoise (*Chelonoidis chilensis*)
 
-- Main image: © Valentín Alfano, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/345236543)
-- Photo 2: © Patricio Cowper Coles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/150315609)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/102807185)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/102807185)
+- Photo 2: © Valentín Alfano, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/345236543)
+- Photo 3: © Patricio Cowper Coles, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/150315609)
 - Photo 4: © Agustín Zarco, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/319876330)
 
 ### Chiapas Giant Musk Turtle (*Staurotypus salvinii*)
@@ -359,14 +440,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © B. P. White, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/96478948)
 - Photo 2: © 祐, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/682664961)
-- Photo 3: © B. P. White, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/96479965)
 
 ### Chinese Softshell Turtle (*Pelodiscus sinensis*)
 
 - Main image: © 116916927065934112165, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/307067)
-- Photo 2: © Leonardo Ancillotto, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2935355)
-- Photo 3: © ARBA Tres Cantos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/112339303)
-- Photo 4: © Yung-Lun Lin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/304412996)
+- Photo 2: © ARBA Tres Cantos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/112339303)
+- Photo 3: © Yung-Lun Lin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/304412996)
 
 ### Chinese Stripe-necked Turtle (*Mauremys sinensis*)
 
@@ -379,6 +458,15 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © mfeaver, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/34624198)
 - Photo 3: © Dominic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/695456855)
 
+### Cochin Forest Cane Turtle (*Vijayachelys silvatica*)
+
+- Main image: © Sandeep Das, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/7799627)
+- Photo 2: © T. R. Shankar Raman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17584839)
+
+### Colombian Slider (*Trachemys medemi*)
+
+- Main image: © Sebastián Cuadrado-Ríos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://zenodo.org/records/14788802)
+
 ### Colombian Wood Turtle (*Rhinoclemmys melanosterna*)
 
 - Main image: © José Gabriel Julio Guzmán, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/364464449)
@@ -387,9 +475,9 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Common Musk Turtle (*Sternotherus odoratus*)
 
-- Main image: © Curtis Meyers, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/52549959)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/156803323)
 - Photo 2: © Fishes of Texas team, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8123924)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/156803323)
+- Photo 3: © Curtis Meyers, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/52549959)
 - Photo 4: © Peter Waycik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/26766466)
 
 ### Common Snapping Turtle (*Chelydra serpentina*)
@@ -398,23 +486,37 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Paul Danese, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/352641064)
 - Photo 3: © Abbie King, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/11051534)
 
+### Cora Mud Turtle (*Kinosternon cora*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/280245893)
+
+### Cotinga River Toad-headed Turtle (*Phrynops tuberosus*)
+
+- Main image: © Gerardo Chavarri, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15143554)
+
 ### Creaser's Mud Turtle (*Kinosternon creaseri*)
 
 - Main image: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4662439)
 - Photo 2: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4662466)
 - Photo 3: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4662285)
 
+### Crowned River Turtle (*Hardella thurjii*)
+
+- Main image: © Aadi Kulkarni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/661496438)
+
 ### Cuatro Cienegas Slider (*Trachemys taylori*)
 
 - Main image: © Gustavo Alfredo Chávez Flores, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2163797)
-- Photo 2: © Raúl Ernestoo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1556677)
-- Photo 3: © Gustavo Alfredo Chávez Flores, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2163796)
+- Photo 2: © Gustavo Alfredo Chávez Flores, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2163796)
 
 ### Cuban Slider (*Trachemys decussata*)
 
 - Main image: © Bananekiwi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8447679)
-- Photo 2: © Robin White, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/341086286)
-- Photo 3: © Skyler Principe, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/211633616)
+- Photo 2: © Skyler Principe, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/211633616)
+
+### Dahl's Toad-headed Turtle (*Mesoclemmys dahli*)
+
+- Main image: © Luis Rojas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=116772005)
 
 ### Darwin Snake-necked Turtle (*Chelodina kurrichalpongo*)
 
@@ -422,10 +524,14 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © yatesy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/620154369)
 - Photo 3: © connyklein, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/462119022)
 
+### Darwin Volcano Giant Tortoise (*Chelonoidis microphyes*)
+
+- Main image: © J Brew, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/41213756)
+
 ### Desert Tortoise (*Gopherus agassizii*)
 
-- Main image: © Pacific Southwest Region USFWS, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/13256812)
-- Photo 2: © Tom Hilton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17051876)
+- Main image: © Tom Hilton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17051876)
+- Photo 2: © Pacific Southwest Region USFWS, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/13256812)
 
 ### Diamondback Terrapin (*Malaclemys terrapin*)
 
@@ -435,13 +541,10 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Sandino Guerrero, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/29018447)
 - Photo 2: © Mauricio Calderón Cadena, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/409784019)
-- Photo 3: © Mauricio Calderón Cadena, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/409783912)
 
 ### East African Black Mud Turtle (*Pelusios subniger*)
 
 - Main image: © Nick Schaller, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28056878)
-- Photo 2: Roland Kays, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/56744060)
-- Photo 3: Roland Kays, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/56744067)
 
 ### Eastern Box Turtle (*Terrapene carolina*)
 
@@ -462,8 +565,14 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Eastern Mud Turtle (*Kinosternon subrubrum*)
 
-- Main image: © Judy Gallagher, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/52981879)
-- Photo 2: © Hannah Jones, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/128428993)
+- Main image: © Hannah Jones, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/128428993)
+- Photo 2: © Judy Gallagher, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/52981879)
+
+### Eastern Santa Cruz Giant Tortoise (*Chelonoidis donfaustoi*)
+
+- Main image: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/32722399)
+- Photo 2: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/32722372)
+- Photo 3: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/32722426)
 
 ### Eastern Saw-shelled Turtle (*Myuchelys latisternum*)
 
@@ -481,9 +590,8 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Elongated Tortoise (*Indotestudo elongata*)
 
 - Main image: © Morten Ross, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/218941648)
-- Photo 2: © Ashwin Viswanathan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/482621149)
-- Photo 3: © James Hunt, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/435710953)
-- Photo 4: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/545212820)
+- Photo 2: © James Hunt, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/435710953)
+- Photo 3: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/545212820)
 
 ### Enigmatic Leaf Turtle (*Cyclemys enigmatica*)
 
@@ -492,15 +600,17 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Eroded Hingeback Tortoise (*Kinixys erosa*)
 
-- Main image: © 116916927065934112165, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/88764)
+- Main image: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/81445480)
 - Photo 2: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/187720127)
-- Photo 3: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/81445480)
 
 ### Escambia Map Turtle (*Graptemys ernsti*)
 
 - Main image: © Wes Anderson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/134476148)
 - Photo 2: © Tayton Alvis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/305646048)
-- Photo 3: © Wes Anderson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/566543670)
+
+### Española Giant Tortoise (*Chelonoidis hoodensis*)
+
+- Main image: © Naji Love, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/733605950)
 
 ### Euphrates Softshell Turtle (*Rafetus euphraticus*)
 
@@ -523,21 +633,30 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Fitzroy River Turtle (*Rheodytes leukops*)
 
-- Main image: © CraigL, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382534)
-- Photo 2: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382538)
-- Photo 3: © Faendalimas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382540)
-- Photo 4: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382545)
+- Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382538)
+- Photo 2: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/459382545)
 
 ### Flat-shelled Turtle (*Chelodina steindachneri*)
 
-- Main image: © Dominic Williams, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/325472391)
+- Main image: © Jan Vršovský, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Notochelys_platynota_109870849.jpg)
+
+### Flat-tailed Tortoise (*Pyxis planicauda*)
+
+- Main image: © Frank Vassen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/25693)
+- Photo 2: © Antony, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/25694)
+- Photo 3: © Lennart Hudel, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/61884685)
 
 ### Flatback Turtle (*Natator depressus*)
 
 - Main image: AI illustration made for Turtle Atlas
 - Photo 2: © Mark Clarke, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/432483472)
-- Photo 3: © Genevieve Early, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/529666602)
-- Photo 4: © Saira Manns, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/458924924)
+- Photo 3: © Saira Manns, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/458924924)
+
+### Flattened Musk Turtle (*Sternotherus depressus*)
+
+- Main image: © John P Friel, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/10037861)
+- Photo 2: © Dean Stavrides, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/234829364)
+- Photo 3: © charlie olson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/658500852)
 
 ### Florida Mud Turtle (*Kinosternon steindachneri*)
 
@@ -556,11 +675,25 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Hans Hillewaert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/13212475)
 
+### Forsten's Tortoise (*Indotestudo forstenii*)
+
+- Main image: © Riou108, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/9253349)
+
+### Four-eyed Turtle (*Sacalia quadriocellata*)
+
+- Main image: © François Charles, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/60629281)
+- Photo 2: © Long Vu, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/99807660)
+
 ### Furrowed Wood Turtle (*Rhinoclemmys areolata*)
 
 - Main image: © Giovana A. Valencia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/399210562)
-- Photo 2: © Juan Paulo Carbajal-Borges, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/113933859)
-- Photo 3: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28086812)
+- Photo 2: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28086812)
+
+### Gabon Mud Turtle (*Pelusios gabonensis*)
+
+- Main image: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/81348194)
+- Photo 2: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/81355113)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/575427218)
 
 ### Galápagos Tortoise (*Chelonoidis niger*)
 
@@ -569,8 +702,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Ganges Softshell Turtle (*Nilssonia gangetica*)
 
 - Main image: © Harsha Jayaramaiah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/49891712)
-- Photo 2: © Biodiversity Heritage Library, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17579821)
-- Photo 3: © Mitul and Vijul Singh, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/393981948)
+
+### Gemel's Leaf Turtle (*Cyclemys gemeli*)
+
+- Main image: © Vijay Anand Ismavel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/19036951)
+- Photo 2: © Sandipan Das, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/302320850)
+- Photo 3: © Rejoice Gassah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/113360336)
 
 ### Geoffroy's Side-necked Turtle (*Phrynops geoffroanus*)
 
@@ -581,9 +718,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Geometric Tortoise (*Psammobates geometricus*)
 
 - Main image: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/302681397)
-- Photo 2: © marius, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/60088789)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/192568473)
-- Photo 4: © marius, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/188263524)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/192568473)
+- Photo 3: © marius, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/188263524)
+
+### Georges' Helmeted Turtle (*Myuchelys georgesi*)
+
+- Main image: © Pelagic, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/110498921)
 
 ### Giant Asian Pond Turtle (*Heosemys grandis*)
 
@@ -596,23 +736,25 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © Diogo Luiz, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/599529502)
 - Photo 2: © Vincent A. Vos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/47950154)
 - Photo 3: © Jose Gutierrez Higa, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/759420032)
-- Photo 4: © Frank Dietze, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/64863265)
 
 ### Gibba Toad-headed Turtle (*Mesoclemmys gibba*)
 
 - Main image: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/56492923)
-- Photo 2: Andrew J. Crawford, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/12792547)
-- Photo 3: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/56493223)
+- Photo 2: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/56493223)
 
 ### Golden Coin Turtle (*Cuora trifasciata*)
 
 - Main image: AI illustration made for Turtle Atlas
 
+### Golden-headed Box Turtle (*Cuora aurocapitata*)
+
+- Main image: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/77855365)
+- Photo 2: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/77855366)
+- Photo 3: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/77855367)
+
 ### Goode's Thornscrub Tortoise (*Gopherus evgoodei*)
 
 - Main image: © Forest Botial-Jarvis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/328584647)
-- Photo 2: © Adrian Bojorquez, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/317972611)
-- Photo 3: © Forest Botial-Jarvis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/151741774)
 
 ### Gopher Tortoise (*Gopherus polyphemus*)
 
@@ -627,6 +769,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Andresvilla92, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/464187430)
 - Photo 3: © Jared Shorma, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/359580154)
 - Photo 4: © Don Loarie, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58917865)
+
+### Gunalen's Snake-necked Turtle (*Chelodina gunaleni*)
+
+- Main image: © Abu Hamas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/259140581)
+- Photo 2: © Abu Hamas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/259140574)
 
 ### Guyanan Toad-headed Turtle (*Mesoclemmys nasuta*)
 
@@ -643,15 +790,18 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Herrera's Mud Turtle (*Kinosternon herrerai*)
 
-- Main image: © Juan Cruzado Cortés, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4200729)
+- Main image: © J Alejandro González Castillo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/139056665)
 - Photo 2: © Iván Cumpián, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/596293707)
-- Photo 3: © J Alejandro González Castillo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/139056665)
 
 ### Hilaire's Side-necked Turtle (*Phrynops hilarii*)
 
 - Main image: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1929107)
-- Photo 2: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1573839)
-- Photo 3: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1160714)
+- Photo 2: © Nicolas Olejnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1160714)
+
+### Hoge's Side-necked Turtle (*Mesoclemmys hogei*)
+
+- Main image: © Bvtinti, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/237669267)
+- Photo 2: © Henrique Nogueira, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/594696680)
 
 ### Home's Hinge-back Tortoise (*Kinixys homeana*)
 
@@ -667,15 +817,27 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Amila Kanchana, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/25972)
 - Photo 3: © Suhel Quader, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/10971491)
 
+### Indian Eyed Turtle (*Morenia petersi*)
+
+- Main image: Philbert Charles Berjeau, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Morenia_petersi.jpg)
+
 ### Indian Flapshell Turtle (*Lissemys punctata*)
 
 - Main image: © Davidvraju, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/474241836)
 
+### Indian Narrow-headed Softshell Turtle (*Chitra indica*)
+
+- Main image: © Krishna Kumar Mishra, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/658386)
+
+### Indian Peacock Softshell Turtle (*Nilssonia hurum*)
+
+- Main image: © Tiia Monto, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nilssonia_hurum.jpg)
+- Photo 2: © (c) abcdefgewing, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nilssonia_hurum_imported_from_iNaturalist_photo_63219774_on_3_December_2020.jpg)
+
 ### Indian Roofed Turtle (*Pangshura tecta*)
 
 - Main image: © Aadi Kulkarni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/664264101)
-- Photo 2: © Sabarni Sarker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/297002230)
-- Photo 3: © Yves Bas, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71762430)
+- Photo 2: © Yves Bas, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71762430)
 
 ### Indian Star Tortoise (*Geochelone elegans*)
 
@@ -690,6 +852,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/98724952)
 - Photo 3: © avocat, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/289192714)
 
+### Indochinese Box Turtle (*Cuora galbinifrons*)
+
+- Main image: © Matěj Baťha, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C5%BDelva_%C5%BEluto%C4%8Del%C3%A1_7327.jpg)
+- Photo 2: © Michael Garlick, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paignton_Zoo,_Indochinese_box_turtle_%27Cuora_galbinifrons%27,_extinct_in_the_wild_-_geograph.org.uk_-_6874481.jpg)
+
 ### Intermediate Musk Turtle (*Sternotherus intermedius*)
 
 - Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/180469763)
@@ -699,8 +866,7 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Irwin's Snapping Turtle (*Elseya irwini*)
 
 - Main image: © Ian Sutton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/110498738)
-- Photo 2: © Tim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/153227704)
-- Photo 3: © Luke Lythgoe, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/478775330)
+- Photo 2: © Luke Lythgoe, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/478775330)
 
 ### Jalisco Mud Turtle (*Kinosternon chimalhuaca*)
 
@@ -714,11 +880,15 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/507747688)
 - Photo 3: © Kim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4168504)
 
+### Karoo Padloper (*Chersobius boulengeri*)
+
+- Main image: © Mahomed Desai, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/178298597)
+
 ### Karoo Tortoise (*Homopus femoralis*)
 
-- Main image: © Tony Rebelo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/112718454)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/529335286)
 - Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/75890085)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/529335286)
+- Photo 3: © Tony Rebelo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/112718454)
 
 ### Keeled Box Turtle (*Cuora mouhotii*)
 
@@ -732,8 +902,21 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Khorat Snail-eating Turtle (*Malayemys khoratensis*)
 
 - Main image: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/545212940)
-- Photo 2: © Navapol Komanasin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/18968999)
-- Photo 3: © Jan Ebr &amp; Ivana Ebrová, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/85282612)
+- Photo 2: © Jan Ebr &amp; Ivana Ebrová, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/85282612)
+
+### Kuchling's Snake-necked Turtle (*Chelodina kuchlingi*)
+
+- Main image: © Benjamin Anderson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/255594602)
+
+### Lake Nicaragua Slider (*Trachemys emolli*)
+
+- Main image: © Bananekiwi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1440757)
+- Photo 2: © EDMILSON FERNANDO JARQUIN LOPEZ, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/477222945)
+- Photo 3: © Dean Hester, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/384513000)
+
+### Lake Turkana Mud Turtle (*Pelusios broadleyi*)
+
+- Main image: © Gary Leavens, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/353462374)
 
 ### Large-nosed Wood Turtle (*Rhinoclemmys nasuta*)
 
@@ -746,6 +929,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: AI illustration made for Turtle Atlas
 - Photo 2: © Pam Kleinsasser, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/23833432)
 
+### Leith's Softshell Turtle (*Nilssonia leithii*)
+
+- Main image: © U.S. Fish and Wildlife Service Headquarters, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/7799700)
+- Photo 2: © Aadi Kulkarni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/642468036)
+
 ### Leopard Tortoise (*Stigmochelys pardalis*)
 
 - Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/12902301)
@@ -755,15 +943,13 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Lobatse Hingeback Tortoise (*Kinixys lobatsiana*)
 
 - Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/605350584)
-- Photo 2: © Andrew Hankey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/186936271)
-- Photo 3: © Andrew Hankey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15798201)
+- Photo 2: © Andrew Hankey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15798201)
 
 ### Loggerhead Musk Turtle (*Sternotherus minor*)
 
 - Main image: AI illustration made for Turtle Atlas
 - Photo 2: © Alex Abair, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/342774740)
-- Photo 3: © Josiah Londerée, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/186455291)
-- Photo 4: © Henrique Pacheco, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/29264163)
+- Photo 3: © Henrique Pacheco, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/29264163)
 
 ### Loggerhead Turtle (*Caretta caretta*)
 
@@ -797,25 +983,30 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Malayan Giant Turtle (*Orlitia borneensis*)
 
 - Main image: © Fábio Olmos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/250961135)
-- Photo 2: © Abu Hamas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/259138533)
-- Photo 3: © Samuel Lee, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/119936334)
 
 ### Malayan Snail-eating Turtle (*Malayemys macrocephala*)
 
 - Main image: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/545213061)
-- Photo 2: © Jay Paroline, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/625930289)
-- Photo 3: © Forest Botial-Jarvis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/254008540)
-- Photo 4: © Utain Pummarin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/77221907)
+- Photo 2: © Forest Botial-Jarvis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/254008540)
+- Photo 3: © Utain Pummarin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/77221907)
 
 ### Malayan Softshell Turtle (*Dogania subplana*)
 
-- Main image: © lunarjade, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/715505959)
+- Main image: © Jan Vršovský, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/109822698)
 - Photo 2: © Wie146, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/435018)
-- Photo 3: © Jan Vršovský, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/109822698)
 
 ### Manning River Saw-shelled Turtle (*Myuchelys purvisi*)
 
 - Main image: AI illustration made for Turtle Atlas
+
+### Maracaibo Wood Turtle (*Rhinoclemmys diademata*)
+
+- Main image: © Luis Ángel Niño Barreat, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/65169304)
+
+### Maranhão Slider (*Trachemys adiutrix*)
+
+- Main image: © Bernard DUPONT from FRANCE, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carvalho%27s_Slider_(Trachemys_adiutrix)_(Courtesy_of_Tony_Chevalier)_(26946013198).jpg)
+- Photo 2: © Bernard DUPONT from FRANCE, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carvalho%27s_Slider_(Trachemys_adiutrix)_(Courtesy_of_Tony_Chevalier)_(40107690514).jpg)
 
 ### Marginated Tortoise (*Testudo marginata*)
 
@@ -827,15 +1018,23 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Marilyn Connell, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/102340797)
 
+### Mashona Hinged Terrapin (*Pelusios rhodesianus*)
+
+- Main image: © Nigel Voaden, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1525825)
+- Photo 2: © Nick Schaller, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/159830272)
+
 ### Mata Mata (*Chelus fimbriata*)
 
 - Main image: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58429992)
 - Photo 2: © Tim Evanson, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/91989091)
 
+### McCord's Box Turtle (*Cuora mccordi*)
+
+- Main image: © I am the author, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cuora_mccordi_juvenile_1.JPG)
+
 ### Mekong Snail-eating Turtle (*Malayemys subtrijuga*)
 
 - Main image: © sucker69420, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/618967206)
-- Photo 2: © sucker69420, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/618965781)
 
 ### Mesoamerican Slider (*Trachemys venusta*)
 
@@ -847,13 +1046,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Tereso Hernández Morales, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/224870344)
 - Photo 2: © Bruno Frías Morales, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/573873972)
-- Photo 3: © Juan Cruzado Cortés, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2080595)
 
 ### Mexican Giant Musk Turtle (*Staurotypus triporcatus*)
 
 - Main image: © Sebastián de Jesús Herrera Buenfil, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/737652583)
 - Photo 2: © Luis Mora, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/14875612)
-- Photo 3: © Juan Cruzado Cortés, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/617506271)
 
 ### Mexican Mud Turtle (*Kinosternon integrum*)
 
@@ -875,9 +1072,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Namoi River Saw-shelled Turtle (*Myuchelys bellii*)
 
-- Main image: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98879184)
-- Photo 2: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98879210)
-- Photo 3: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98879170)
+- Main image: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98879210)
+- Photo 2: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98879184)
+
+### Narrow-bridged Mud Turtle (*Kinosternon angustipons*)
+
+- Main image: © Lasse W., [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/546303817)
 
 ### Narrow-bridged Musk Turtle (*Claudius angustatus*)
 
@@ -891,11 +1091,34 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © David Thompson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/471713986)
 - Photo 3: © luluchouette, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/265272139)
 
+### Natal Hinge-back Tortoise (*Kinixys natalensis*)
+
+- Main image: © Shaun Swanepoel, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/106015820)
+- Photo 2: © Dylan Leonard, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/484737437)
+- Photo 3: © Alan Manson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58697909)
+
 ### Nazas Slider (*Trachemys hartwegi*)
 
 - Main image: © Luis F. Ramírez, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/178151197)
 - Photo 2: © Mauricio Calderón Cadena, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/358686425)
 - Photo 3: © Mauricio Calderón Cadena, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/273628815)
+
+### Neumann's Helmeted Turtle (*Pelomedusa neumanni*)
+
+- Main image: © Jan Ebr &amp; Ivana Ebrová, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/176134409)
+
+### New Guinea Giant Softshell Turtle (*Pelochelys bibroni*)
+
+- Main image: © Haiyan Tong, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pelochelys_bibroni.jpg)
+
+### New Guinea Snake-necked Turtle (*Chelodina novaeguineae*)
+
+- Main image: © Ltshears, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Guinea_Snake-necked_Turtle.jpg)
+- Photo 2: © Артём Полоз, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chelodina_novaeguineae.jpg)
+
+### New Guinea Snapping Turtle (*Elseya novaeguineae*)
+
+- Main image: © nuujaka, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/620744452)
 
 ### Nicaraguan Slider (*Trachemys grayi*)
 
@@ -913,6 +1136,10 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Brooke Smith, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2123462)
 - Photo 3: © Brooke Smith, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/3392474)
 
+### Northern Red-faced Turtle (*Emydura victoriae*)
+
+- Main image: © Dane Trembath, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://www.gbif.org/occurrence/3381473520)
+
 ### Northern River Terrapin (*Batagur baska*)
 
 - Main image: AI illustration made for Turtle Atlas
@@ -922,17 +1149,32 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Ong Jyh Seng, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/186676124)
 
+### Northern Snapping Turtle (*Elseya dentata*)
+
+- Main image: © Romain Boisseau, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/544326825)
+
 ### Northern Yellow-faced Turtle (*Emydura tanybaraga*)
 
 - Main image: © Rosario Douglas, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/342609187)
 - Photo 2: © Lachlan Copeland, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/523877019)
 - Photo 3: © Jesse de Vries, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/294968630)
 
+### Nubian Flapshell Turtle (*Cyclanorbis elegans*)
+
+- Main image: © Simon J. Tonge, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_elegans.jpg)
+- Photo 2: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_elegans_(29569930902).jpg)
+
 ### Oaxaca Mud Turtle (*Kinosternon oaxacae*)
 
 - Main image: © Vicente Mata-Silva, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/19752324)
 - Photo 2: © 2012 Vicente Mata-Silva, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/429141)
 - Photo 3: © Wendy García Monterrubio, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/976985)
+
+### Okavango Mud Turtle (*Pelusios bechuanicus*)
+
+- Main image: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/282612738)
+- Photo 2: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/277958437)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/462756983)
 
 ### Oldham's Leaf Turtle (*Cyclemys oldhamii*)
 
@@ -943,6 +1185,10 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Olive Ridley Turtle (*Lepidochelys olivacea*)
 
 - Main image: © Bernard Gagnon, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/356024804)
+
+### Orinoco Mata Mata (*Chelus orinocensis*)
+
+- Main image: © Sheelagh Halsey, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/52251214)
 
 ### Ornate Box Turtle (*Terrapene ornata*)
 
@@ -978,13 +1224,21 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Painted Wood Turtle (*Rhinoclemmys pulcherrima*)
 
-- Main image: © Francisco Farriols Sarabia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4741505)
-- Photo 2: © Francisco Farriols Sarabia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4741502)
+- Main image: © Francisco Farriols Sarabia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4741502)
+- Photo 2: © Francisco Farriols Sarabia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/4741505)
+
+### Pan's Box Turtle (*Cuora pani*)
+
+- Main image: © Cuora at English Wikipedia, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=20938269)
 
 ### Pancake Tortoise (*Malacochersus tornieri*)
 
 - Main image: © Rob DiCaterino, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/97291320)
 - Photo 2: © Ryan Somma, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/97291323)
+
+### Parker's Snake-necked Turtle (*Chelodina parkeri*)
+
+- Main image: © Photo by David J. Stang, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chelodina_parkeri_1zz.jpg)
 
 ### Parrot-beaked Tortoise (*Homopus areolatus*)
 
@@ -1007,20 +1261,28 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Peninsular Cooter (*Pseudemys peninsularis*)
 
 - Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/340817576)
-- Photo 2: © José Garrido, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/31273365)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/20575430)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/20575430)
 
 ### Philippine Box Turtle (*Cuora philippinensis*)
 
 - Main image: © Wouter Beukema, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/410633486)
-- Photo 2: © Greg III Espera, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/191917729)
-- Photo 3: © Greg III Espera, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/191922248)
+- Photo 2: © Greg III Espera, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/191922248)
+
+### Philippine Forest Turtle (*Siebenrockiella leytensis*)
+
+- Main image: © Mozhar, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Siebenrockiella_leytensis1.jpg)
+- Photo 2: © Mozhar, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Siebenrockiella_leytensis.jpg)
 
 ### Pig-nosed Turtle (*Carettochelys insculpta*)
 
-- Main image: © Bjoertvedt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/84126810)
-- Photo 2: © Mistvan, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/84126811)
+- Main image: © Mistvan, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/84126811)
+- Photo 2: © Bjoertvedt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/84126810)
 - Photo 3: © Mitch Ames, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/111182025)
+
+### Pinzón Giant Tortoise (*Chelonoidis duncanensis*)
+
+- Main image: © Matěj Baťha, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8046144)
+- Photo 2: © Wes Gapp, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/474191669)
 
 ### Ploughshare Tortoise (*Astrochelys yniphora*)
 
@@ -1029,15 +1291,24 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 3: © NasserHalaweh, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Testudinidae_Astrochelys_yniphora_1.jpg)
 - Photo 4: © Andrea Currylow, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wild_Astrochelys_yniphora_in_its_native_habitats_2-transformed.png)
 
+### Pritchard's Snake-necked Turtle (*Chelodina pritchardi*)
+
+- Main image: © KENPEI, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/91091218)
+
 ### Radiated Tortoise (*Astrochelys radiata*)
 
-- Main image: © Josip Skejo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71756380)
-- Photo 2: © Josip Skejo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71756391)
-- Photo 3: © William Stephens, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/64597238)
+- Main image: © William Stephens, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/64597238)
+- Photo 2: © Josip Skejo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71756380)
+- Photo 3: © Josip Skejo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71756391)
 
 ### Razor-backed Musk Turtle (*Sternotherus carinatus*)
 
 - Main image: © Photographer: LA Dawson, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/204635)
+
+### Red Side-necked Turtle (*Rhinemys rufipes*)
+
+- Main image: © Bruno de Medeiros, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/32585007)
+- Photo 2: © bewambay, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/9437510)
 
 ### Red-bellied Short-necked Turtle (*Emydura subglobosa*)
 
@@ -1050,6 +1321,10 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2168394)
 - Photo 2: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2168395)
 - Photo 3: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2168397)
+
+### Red-crowned Roofed Turtle (*Batagur kachuga*)
+
+- Main image: © Daniel Z, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/623424372)
 
 ### Red-Eared Slider (*Trachemys scripta elegans*)
 
@@ -1071,6 +1346,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © charlie olson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/584082475)
 - Photo 3: © Enrique Salazar, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/413804476)
 
+### Red-necked Pond Turtle (*Mauremys nigricans*)
+
+- Main image: © Marijan Tunjic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mauremys_nigricans_-_Red-necked_pond_turtle_01.jpg)
+- Photo 2: © Marijan Tunjic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mauremys_nigricans_-_Red-necked_pond_turtle_02.jpg)
+- Photo 3: © Greg Hume, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kwangtung_Turtle_(Mauremys_nigricans).JPG)
+
 ### Reeves' Turtle (*Mauremys reevesii*)
 
 - Main image: © Samuele Papeschi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/249782015)
@@ -1091,30 +1372,44 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Sam Kieschnick, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/6217102)
 
+### Roti Island Snake-necked Turtle (*Chelodina mccordi*)
+
+- Main image: © Salix, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/87948337)
+
 ### Russian Tortoise (*Testudo horsfieldii*)
 
 - Main image: © Kudaibergen Amirekul, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/37515483)
 - Photo 2: © anonymous, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243715)
 - Photo 3: © Kudaibergen Amirekul, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/33492886)
-- Photo 4: © Kudaibergen Amirekul, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/33492943)
 
 ### Ryukyu Black-breasted Leaf Turtle (*Geoemyda japonica*)
 
 - Main image: © Pieter Pelser, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/24452421)
-- Photo 2: © Takaaki Hattori, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/45698984)
-- Photo 3: © Takaaki Hattori, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/202896972)
+- Photo 2: © Takaaki Hattori, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/202896972)
 
 ### Sabine Map Turtle (*Graptemys sabinensis*)
 
 - Main image: © Chris Acree, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/645944645)
-- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/577549378)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/577546050)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/577546050)
+
+### San Cristóbal Giant Tortoise (*Chelonoidis chathamensis*)
+
+- Main image: © ajott, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/114708875)
+- Photo 2: © Chris Kirby-Lambert, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/600439416)
+
+### Santiago Giant Tortoise (*Chelonoidis darwini*)
+
+- Main image: © Minglex, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1944999)
 
 ### Savanna Side-necked Turtle (*Podocnemis vogli*)
 
 - Main image: © Carlos Ruiz, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/12880135)
 - Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/203385262)
 - Photo 3: © Ben Costamagna, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/464307513)
+
+### Schultze's Snapping Turtle (*Elseya schultzei*)
+
+- Main image: © Faendalimas, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=34076852)
 
 ### Scorpion Mud Turtle (*Kinosternon scorpioides*)
 
@@ -1124,10 +1419,8 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Senegal Flapshell Turtle (*Cyclanorbis senegalensis*)
 
-- Main image: G.H.Ford, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CyclanosteusSenegalensisFord.jpg)
-- Photo 2: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_senegalensis_(29390316200).jpg)
-- Photo 3: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_senegalensis_(29599866321).jpg)
-- Photo 4: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_senegalensis_(29569951182).jpg)
+- Main image: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_senegalensis_(29599866321).jpg)
+- Photo 2: © U.S. Fish and Wildlife Service Headquarters, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cyclanorbis_senegalensis_(29569951182).jpg)
 
 ### Serrated Hinged Terrapin (*Pelusios sinuatus*)
 
@@ -1141,6 +1434,10 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/126709318)
 - Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/175361071)
 
+### Seychelles Yellow-bellied Mud Turtle (*Pelusios castanoides*)
+
+- Main image: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/254008190)
+
 ### Sicilian Pond Turtle (*Emys trinacris*)
 
 - Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/169861633)
@@ -1152,6 +1449,18 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © Alejandro Colmenero, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/241039346)
 - Photo 2: © Christian Franco, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/342093334)
 - Photo 3: © Jonathan Rodriguez, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/93024518)
+
+### Sierra Negra Giant Tortoise (*Chelonoidis guntheri*)
+
+- Main image: © Michael Bakker Paiva, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/54781683)
+- Photo 2: © Bill Levine, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/355933997)
+- Photo 3: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/38291180)
+
+### Six-tubercled Amazon River Turtle (*Podocnemis sextuberculata*)
+
+- Main image: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58353026)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/204541047)
+- Photo 3: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58352351)
 
 ### Smooth Softshell (*Apalone mutica*)
 
@@ -1207,6 +1516,17 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Dominic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/483728136)
 - Photo 3: © Dominic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/483718442)
 
+### Southern River Terrapin (*Batagur affinis*)
+
+- Main image: © Przemek Pietrak, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/422068601)
+- Photo 2: © Huey, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/503081588)
+- Photo 3: © lunarjade, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/530017081)
+
+### Southern Vietnam Box Turtle (*Cuora picturata*)
+
+- Main image: © ulih., [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/394149826)
+- Photo 2: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/394149835)
+
 ### Southwestern Pond Turtle (*Actinemys pallida*)
 
 - Main image: © Zack Abbey, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/508904763)
@@ -1216,8 +1536,7 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Southwestern Snake-necked Turtle (*Chelodina oblonga*)
 
 - Main image: © Cal Wood, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28318029)
-- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/523380893)
-- Photo 3: © Cal Wood, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28318031)
+- Photo 2: © Cal Wood, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28318031)
 
 ### Spanish Pond Turtle (*Mauremys leprosa*)
 
@@ -1230,13 +1549,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © desertnaturalist, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243019578)
 - Photo 2: © Kevin Murray, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108166124)
 - Photo 3: © Zoe Du Plessis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/328899790)
-- Photo 4: © Mahomed Desai, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/263882580)
 
 ### Speke's Hinge-back Tortoise (*Kinixys spekii*)
 
 - Main image: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/722838373)
-- Photo 2: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/722787604)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13541724)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13541724)
 
 ### Spider Tortoise (*Pyxis arachnoides*)
 
@@ -1257,6 +1574,11 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 3: © Eamonn Culhane, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/363279838)
 - Photo 4: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/441289493)
 
+### Spotted Softshell Turtle (*Pelodiscus variegatus*)
+
+- Main image: © Thomas Ziegler, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://zenodo.org/records/2574286)
+- Photo 2: © Thomas Ziegler, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [source](https://zenodo.org/records/2574286)
+
 ### Spotted Turtle (*Clemmys guttata*)
 
 - Main image: © Nick Block, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/148116718)
@@ -1268,7 +1590,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Rafael Bernhard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/58397630)
 - Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/654161491)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/289582774)
 
 ### Spur-thighed Tortoise (*Testudo graeca*)
 
@@ -1308,7 +1629,6 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © zm77, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/333870524)
 - Photo 2: © Jolieokefenokee, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/543884418)
-- Photo 3: © Maddie Castilla, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/688441578)
 
 ### Tabasco Mud Turtle (*Kinosternon acutum*)
 
@@ -1319,14 +1639,12 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Tent Tortoise (*Psammobates tentorius*)
 
 - Main image: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/96319302)
-- Photo 2: © Biodiversity Heritage Library, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/669057)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/97937173)
 
 ### Texas Cooter (*Pseudemys texana*)
 
-- Main image: © Sam Kieschnick, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1543276)
-- Photo 2: © Cody Stricker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/46951983)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/62366613)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/62366613)
+- Photo 2: © Sam Kieschnick, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1543276)
+- Photo 3: © Cody Stricker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/46951983)
 
 ### Texas Map Turtle (*Graptemys versa*)
 
@@ -1336,22 +1654,22 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Texas Tortoise (*Gopherus berlandieri*)
 
-- Main image: © Gary Abner Garcia-Garcia, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/53741163)
-- Photo 2: © Douglas Goldman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/54069407)
-- Photo 3: © Mike Duran, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/385264)
+- Main image: © Mike Duran, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/385264)
 
 ### Three-keeled Land Turtle (*Melanochelys tricarinata*)
 
-- Main image: unknown, Public domain - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoemyda_tricarinata_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ11600097.tif)
+- Main image: © Deepak2929, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tortoise_at_Pilibhit_Tiger_Reserve.jpg)
 - Photo 2: Pixel009, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tricarinate_hill_turtle_(Melanochelys_tricarinata)_spotted_at_PTR.jpg)
-- Photo 3: © Deepak2929, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tortoise_at_Pilibhit_Tiger_Reserve.jpg)
+
+### Three-striped Roofed Turtle (*Batagur dhongoka*)
+
+- Main image: © Hari arcw, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Batagur_dhongoka_Hatchling_in_National_Chambal_Sanctuary,_India.jpg)
+- Photo 2: © Hari Mohan Meena, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hatchlings_of_Batagur_dhongoka_and_Batagur_kachuga.jpg)
 
 ### Three-toed Box Turtle (*Terrapene triunguis*)
 
-- Main image: © odobenine, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/25032710)
-- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/24613862)
-- Photo 3: © Michelle W. （鍾偉瑋）, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/128734912)
-- Photo 4: © Needgrace247, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/639538574)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/24613862)
+- Photo 2: © Michelle W. （鍾偉瑋）, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/128734912)
 
 ### Travancore Tortoise (*Indotestudo travancorica*)
 
@@ -1370,37 +1688,47 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Main image: © Fábio Olmos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/74778113)
 - Photo 2: Etienne Falquet, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/239522821)
 
+### Vallarta Mud Turtle (*Kinosternon vogti*)
+
+- Main image: © Agencia Informativa Conacyt / UdeG, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kinosternon_vogti.jpg)
+- Photo 2: © Agencia Informativa Conacyt / UdeG, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kinosternon_vogti,_com%C3%BAnmente_llamada_%27Casquito_de_Vallarta%27,_en_el_laboratorio.jpg)
+
 ### Vanderhaege's Toad-headed Turtle (*Mesoclemmys vanderhaegei*)
 
 - Main image: © Jean Martins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/270004076)
-- Photo 2: © Jean Martins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/118849111)
-- Photo 3: © Jean Martins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/120328708)
+- Photo 2: © Jean Martins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/120328708)
 
 ### Vietnamese Leaf Turtle (*Cyclemys pulchristriata*)
 
 - Main image: © Long Vu, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/105003124)
-- Photo 2: © insect ID, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/454373982)
-- Photo 3: © Chris Oldnall, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/281615371)
+- Photo 2: © Chris Oldnall, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/281615371)
 
 ### Vietnamese Pond Turtle (*Mauremys annamensis*)
 
 - Main image: AI illustration made for Turtle Atlas
 - Photo 2: © Adam G. Stern, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vietnamese_Pond_Turtle_Mauremys_annamensis_Adam_G._Stern.jpg)
 - Photo 3: © Adam G. Stern, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vietnamese_Pond_Turtle_Mauremys_annamensis_in_the_water.jpg)
-- Photo 4: © Superbass, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2024-03-26-Mauremys_annamensis-2949.jpg)
+
+### Vietnamese Three-striped Box Turtle (*Cuora cyclornata*)
+
+- Main image: © Original uploader was Cuora at en.wikipedia. Later version(s) were uploaded by Storkk at en.wikipedia., [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17584166)
+- Photo 2: © Original uploader was Cuora at en.wikipedia. Later version(s) were uploaded by KeepOpera at en.wikipedia., [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17584167)
 
 ### Wattle-necked Softshell Turtle (*Palea steindachneri*)
 
 - Main image: © Simon J. Tonge, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/367607)
-- Photo 2: Simon Tonge, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13673214)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13673186)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13673186)
+
+### West African Black Forest Turtle (*Pelusios niger*)
+
+- Main image: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/154121403)
+- Photo 2: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/154122570)
 
 ### West African Mud Turtle (*Pelusios castaneus*)
 
-- Main image: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608693)
-- Photo 2: © Stuckas H, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1175742)
-- Photo 3: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608694)
-- Photo 4: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608695)
+- Main image: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608694)
+- Photo 2: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608695)
+- Photo 3: © Laurent Lebois, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/107608693)
 
 ### Western Caspian Turtle (*Mauremys rivulata*)
 
@@ -1411,12 +1739,20 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Western Hinge-back Tortoise (*Kinixys nogueyi*)
 
 - Main image: © Lucky Atabo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/282881106)
-- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/50354451)
-- Photo 3: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108397069)
+- Photo 2: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/108397069)
 
 ### Western Pond Turtle (*Actinemys marmorata*)
 
 - Main image: © Megan Ralph, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/101239633)
+
+### Western Santa Cruz Giant Tortoise (*Chelonoidis porteri*)
+
+- Main image: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/37946283)
+- Photo 2: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/37748207)
+
+### Western Swamp Turtle (*Pseudemydura umbrina*)
+
+- Main image: © Bahudhara, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/56034999)
 
 ### White-lipped Mud Turtle (*Kinosternon leucostomum*)
 
@@ -1433,21 +1769,31 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### White-throated Snapping Turtle (*Elseya albagula*)
 
 - Main image: © Marilyn Connell, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/76800507)
-- Photo 2: © Tony van Kampen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/536902212)
-- Photo 3: © Tony van Kampen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/534276325)
+
+### Williams' Mud Turtle (*Pelusios williamsi*)
+
+- Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243863022)
 
 ### Williams' Side-necked Turtle (*Phrynops williamsi*)
 
-- Main image: © Mark Bolnik, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/111675246)
-- Photo 2: © Peter Chen 2.0, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/76940213)
-- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/183098548)
+- Main image: © Peter Chen 2.0, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/76940213)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/183098548)
+
+### Wolf Volcano Giant Tortoise (*Chelonoidis becki*)
+
+- Main image: © Adam aran, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28451775)
+- Photo 2: © Adavyd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/237073444)
 
 ### Wood Turtle (*Glyptemys insculpta*)
 
 - Main image: © Michael Ellis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8913387)
-- Photo 2: © Chase Mathey, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/206275907)
-- Photo 3: © Steven Lamonde, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/129496334)
-- Photo 4: © Annie Weissman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/75389514)
+- Photo 2: © Steven Lamonde, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/129496334)
+- Photo 3: © Annie Weissman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/75389514)
+
+### Yangtze Giant Softshell Turtle (*Rafetus swinhoei*)
+
+- Main image: © Phuongcacanh, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/156754360)
+- Photo 2: © haithanh, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/27352457)
 
 ### Yaqui Slider (*Trachemys yaquia*)
 
@@ -1456,9 +1802,8 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 ### Yellow Mud Turtle (*Kinosternon flavescens*)
 
 - Main image: © Michelle W. （鍾偉瑋）, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/208674395)
-- Photo 2: © Fishes of Texas team, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/143902751)
-- Photo 3: © Nick Block, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/65987137)
-- Photo 4: © Nate Sabo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/265144881)
+- Photo 2: © Nick Block, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/65987137)
+- Photo 3: © Nate Sabo, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/265144881)
 
 ### Yellow Pond Turtle (*Mauremys mutica*)
 
@@ -1468,7 +1813,9 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 ### Yellow-Bellied Slider (*Trachemys scripta scripta*)
 
-- Main image: © Douglas Goldman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/285492465)
+- Main image: © Joshua Liverman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/66948582)
+- Photo 2: © Douglas Goldman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/285492465)
+- Photo 3: © Tyler Hacking, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/214150933)
 
 ### Yellow-blotched Map Turtle (*Graptemys flavimaculata*)
 
@@ -1480,8 +1827,7 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 
 - Main image: © Fábio Olmos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/164565208)
 - Photo 2: © Sidnei Dantas, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/162783094)
-- Photo 3: © B. Phalan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/134726448)
-- Photo 4: © Carlos Otávio Gussoni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/59973380)
+- Photo 3: © Carlos Otávio Gussoni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/59973380)
 
 ### Yellow-headed Temple Turtle (*Heosemys annandalii*)
 
@@ -1499,6 +1845,15 @@ Some main images, marked "AI illustration", were created for Turtle Atlas with a
 - Photo 2: © Jorge Armín Escalante-Pasos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/5309331)
 - Photo 3: © Cenoteando, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/137979060)
 
+### Yunnan Box Turtle (*Cuora yunnanensis*)
+
+- Main image: © Original uploader was Cuora (claimed to be Torsten Blanck) at en.wikipedia, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=3462335)
+- Photo 2: © Cuora at English Wikipedia, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=41996821)
+
 ### Zambezi Flapshell Turtle (*Cycloderma frenatum*)
 
 - Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/13673113)
+
+### Zhou's Box Turtle (*Cuora zhoui*)
+
+- Main image: © Cuora, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/590621209)
