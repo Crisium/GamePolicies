@@ -1,0 +1,175 @@
+# Cat Companion — Privacy Policy
+
+**Effective date:** November 14, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+Cat Companion ("the app") is a cat care guide and companion: profiles of cat breeds, guides to care, nutrition, health, behavior, training, enrichment and adoption, a food and plant checker, a symptom checker, a breed scanner, a quiz, cat facts, and a care log for your own cats with care reminders and a weight log. This policy explains what information the app handles, and the credits and licences of the content and software it is built with.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you add to it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **My Cats:** the cats you add, with the name, breed, sex, neutered status and birthday you give them, and their weight log
+- **Photos of your cats:** if you choose a photo for a cat, a resized copy is kept in the app's private storage on your device
+- **Care reminders:** your reminders (such as grooming, flea treatment or vet checkups), how often they repeat and when you last did them
+- **Favorites, checklist and quiz scores:** the breeds you save, the items you tick on the new cat checklist, and your best quiz scores
+- **Settings:** your weight unit (kg or lb), notification settings, whether you have seen the welcome screen, and whether the full version is unlocked
+
+This information is never sent to us or to anyone else. You can delete it at any time in Settings > Delete all my data, and it is deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos:** the app only reads a photo when you choose one yourself in your device's photo picker, or take one for the breed scanner. The photo is never uploaded.
+
+**Breed scanner:** when you scan a photo, a small image-recognition model built into the app looks at it on your device, without an internet connection. The photo is not sent anywhere. The last scanned photo is kept in the app's temporary storage until the next scan, and the app counts how many scans the free version has used.
+
+**Notifications:** if you allow them, the app shows one daily notification listing the care reminders that are due. It is created on your device; no notification server is involved.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All breed profiles, guides and photos are built into the app.
+- It does not collect analytics, crash reports, location, contacts or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your microphone, and it does not open the camera itself: for the breed scanner's "Take a photo" it asks your phone's own camera app for one photo, which you take there. The app needs no camera permission.
+
+## Health information
+
+The care, health and nutrition information in the app is general guidance for cat owners. It is not veterinary advice and does not replace a visit to a veterinarian. When your cat seems unwell, contact your vet. If your cat may have eaten something poisonous, contact your vet or a pet poison helpline right away.
+
+## Children
+
+The app is a general reference about cats and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Credits and attribution
+
+## Photos, illustrations and icons
+
+The topic photos, the colored picture icons and most of the breed photos were created for Cat Companion with AI image generation (ChatGPT image generation by OpenAI), from prompts written by AxiomaraGames, and were then cropped, cut out and resized for the app. They are not photos of real, identifiable animals or people. Under OpenAI's terms, the output belongs to the user who created it.
+
+### Breed photos from Wikimedia Commons
+
+These five breed photos are real photographs from Wikimedia Commons, used under the Creative Commons licences named below. Each one was cropped to a portrait, and a close-up was cut from it for the breed list. The cropped versions are shared under the same licence as the original. No photographer endorses the app.
+
+| Breed | Photo (Wikimedia Commons) | Author | Licence |
+|---|---|---|---|
+| Bombay | [BOM Melody in Black of Bagilis](https://commons.wikimedia.org/wiki/File:BOM_Melody_in_Black_of_Bagilis_(15051671613).jpg) | Nickolas Titkov | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) |
+| Havana Brown | [Havana cat](https://commons.wikimedia.org/wiki/File:Havana_cat.jpg) | Havanabrowngirl | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Singapura | [SIN cats from RozenTal cattery](https://commons.wikimedia.org/wiki/File:SIN_cats_from_RozenTal_cattery_(5624534660).jpg) | Nickolas Titkov | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) |
+| LaPerm | [Kururu-LaPermCat in Cat Cafe 2011 (cropped 2023)](https://commons.wikimedia.org/wiki/File:Kururu-LaPermCat_in_Cat_Cafe_2011_(cropped_2023).jpg) | Takashi (aes256) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) |
+| Domestic Longhair | [Big muzzle](https://commons.wikimedia.org/wiki/File:Big_muzzle_(53667799846).jpg) | Egor Plenkin | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+
+The line icons (menu, arrows and similar) and the app icon were drawn for the app by AxiomaraGames.
+
+## Breed scanner
+
+The breed scanner's image-recognition model (based on EfficientNet-B0, pretrained on ImageNet and published with the PyTorch torchvision library under the BSD 3-Clause licence) was trained by AxiomaraGames on:
+
+- the **Oxford-IIIT Pet Dataset** by O. M. Parkhi, A. Vedaldi, A. Zisserman and C. V. Jawahar (Visual Geometry Group, University of Oxford), used under the [Creative Commons Attribution-ShareAlike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/): https://www.robots.ox.ac.uk/~vgg/data/pets/
+- photos of cat breeds from **Wikimedia Commons**, each used under its own free licence (Creative Commons or public domain).
+
+The photos themselves are not part of the app; only the model learnt from them is. No photographer or dataset author endorses the app.
+
+## Breed and care information
+
+The breed profiles, guides, food list and symptom checker were written for the app, based on generally accepted guidance from cat welfare and veterinary organisations such as International Cat Care, the American Association of Feline Practitioners (AAFP), the Cornell Feline Health Center, the ASPCA Animal Poison Control Center and the breed standards of the major cat registries (TICA, CFA, GCCF). These organisations are not affiliated with the app and have not reviewed or endorsed it.
+
+## Fonts
+
+- **Fira Sans Condensed**, Copyright (c) 2012-2015, The Mozilla Foundation and Telefonica S.A., licensed under the SIL Open Font License, Version 1.1.
+- **Playfair Display**, Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display", licensed under the SIL Open Font License, Version 1.1.
+
+The SIL Open Font License 1.1: https://openfontlicense.org (full text below).
+
+---
+
+# Licences
+
+Cat Companion is built with the following software, used under its licence.
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+Qt includes third-party components, each under its own licence (listed at https://doc.qt.io/qt-6/licenses-used-in-qt.html), among them:
+
+- **libwebp** (WebP images), © Google Inc., BSD 3-Clause License
+- **FreeType**, © The FreeType Project, FreeType License
+- **HarfBuzz**, © HarfBuzz contributors, MIT License
+- **PCRE2**, © University of Cambridge, BSD License
+- **zlib**, © Jean-loup Gailly and Mark Adler, zlib License
+
+## ONNX Runtime
+
+The breed scanner runs its model with ONNX Runtime 1.31, © Microsoft Corporation, under the **MIT License**.
+
+- Project: https://github.com/microsoft/onnxruntime
+- The licence: https://github.com/microsoft/onnxruntime/blob/main/LICENSE
+
+## Google Play Billing Library and AndroidX
+
+The in-app purchase uses the Google Play Billing Library, and the app uses AndroidX Core, © Google LLC, under the **Apache License 2.0**: https://www.apache.org/licenses/LICENSE-2.0
+
+The Kotlin standard library they include is © JetBrains s.r.o., Apache License 2.0.
+
+---
+
+# SIL Open Font License, Version 1.1
+
+This license applies to the fonts Fira Sans Condensed and Playfair Display (see Credits above).
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) and the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
