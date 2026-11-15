@@ -1,0 +1,579 @@
+# Snake Atlas — Privacy Policy
+
+**Effective date:** November 9, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+Snake Atlas ("the app") is a snake encyclopedia: species profiles, identification from a photo, care, health, behavior and breeding guides, venom and snakebite safety information, habitats and a quiz. This policy explains what information the app handles, the licences of the software it is built with, and who made the images in it.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you add to it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **Favorites:** the species you save
+- **Discovered species:** the species profiles you have opened
+- **Quiz:** your best quiz score
+- **Free version allowances:** how many identifications and quiz rounds you have used today
+
+This information is never sent to us or to anyone else. You can erase it in Settings > Reset my data. It is also deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos and snake identification:** when you identify a snake, you take a photo with your device's camera app or choose one from your device. The photo is compared with the reference images built into the app, on your device. It is never uploaded or stored by the app. The app does not ask for camera permission itself: taking a photo opens your device's own camera app, which hands that one photo back.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All species profiles, guides and images are built into the app. The link to this policy opens in your web browser.
+- It does not collect analytics, crash reports, location, contacts or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your microphone.
+
+## Safety information
+
+The venom, first aid, health and care information in the app is general guidance for education. It is not medical or veterinary advice and does not replace a doctor, a poison center or a veterinarian. Photo identification can be wrong: never use the app to decide whether a snake is safe to approach or handle. After a snakebite, call your local emergency number at once.
+
+## Children
+
+The app is a general reference about snakes and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Licences
+
+Snake Atlas is built with the following software and fonts, used under their licences.
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+## Fira Sans Condensed
+
+The app's lettering is Fira Sans Condensed, © 2012–2015 The Mozilla Foundation and Telefonica S.A., © 2016–2018 Carrois Corporate GbR and bBox Type GmbH, under the **SIL Open Font License 1.1**: https://openfontlicense.org
+
+## Google Play Billing Library
+
+The full-version purchase uses the Google Play Billing Library, © Google LLC, under the **Apache License 2.0**: https://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+# Image Credits
+
+Snake Atlas uses photographs shared by observers on [iNaturalist](https://www.inaturalist.org) and contributors to [Wikimedia Commons](https://commons.wikimedia.org), under the licences named for each one: CC0 (public domain dedication), CC BY or CC BY-SA. Every photograph was cropped, resized and color-adjusted for the app; no other changes were made. Photographs under a CC BY-SA licence are, as adapted, shared under that same licence. The photographers do not endorse Snake Atlas.
+
+The following artwork was created for Snake Atlas with an AI image generator (ChatGPT, OpenAI) and is not a photograph of a real animal or place: the title screen picture, the snake logo, the app icon, the page background, the pictures at the top of the Care Guide, Venom & Safety, Health, Behavior and Breeding guides, the sample photo on the Identify screen, the eight habitat pictures, and any species image marked "AI illustration" below. The AxiomaraGames logo belongs to AxiomaraGames.
+
+## Species photographs
+
+
+### Aesculapian Snake (*Zamenis longissimus*)
+
+- Main image: © Philipp Pavelka, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/39487326)
+- Photo 2: © Легкий Сергій Валерійович, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8062656)
+- Photo 3: © Léo Souillard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/500846581)
+
+### African House Snake (*Boaedon fuliginosus*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/186836126)
+- Photo 2: © JonRichfield, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71036130)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/186835607)
+
+### African Rock Python (*Python sebae*)
+
+- Main image: © Ewout Knoester, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/21325985)
+- Photo 2: © Lucy Keith-Diagne, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/99400002)
+
+### Amazon Tree Boa (*Corallus hortulana*)
+
+- Main image: © Henrique Nogueira, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/267127371)
+- Photo 2: © Henrique Nogueira, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/321911006)
+- Photo 3: © Henrique Nogueira, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/267127391)
+
+### Amethystine Python (*Simalia amethistina*)
+
+- Main image: © Гурьева Светлана (zooclub.ru), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/49890489)
+- Photo 2: © Mike, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/123351524)
+- Photo 3: © bitterbug/ Mike Wagner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/123351525)
+
+### Asp Viper (*Vipera aspis*)
+
+- Main image: © Gilles San Martin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/146935774)
+- Photo 2: © Emanuele Santarelli, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/278155053)
+- Photo 3: © Emanuele Santarelli, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/278154766)
+
+### Ball Python (*Python regius*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Banded Krait (*Bungarus fasciatus*)
+
+- Main image: © Tristan Jobin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/365231805)
+- Photo 2: © Ankur Nandi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/573100257)
+
+### Banded Sea Krait (*Laticauda colubrina*)
+
+- Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/404361251)
+- Photo 2: © Dan Schofield, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/71778672)
+
+### Black Mamba (*Dendroaspis polylepis*)
+
+- Main image: © Wynand Uys, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15583520)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/189495916)
+
+### Black-headed Python (*Aspidites melanocephalus*)
+
+- Main image: © John Tann, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/165800)
+- Photo 2: © Connor Margetts, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/275918918)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/188045135)
+
+### Blood Python (*Python brongersmai*)
+
+- Main image: © Rushen, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Python_brongersmai_-_Sai_Yok_District,_Kanchanaburi_Province_-_Flickr_-_Rushen.jpg)
+- Photo 2: © tontantravel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/17625417)
+- Photo 3: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/543230533)
+
+### Boa Constrictor (*Boa constrictor*)
+
+- Main image: © Jose Luis Navarro, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/478779743)
+- Photo 2: © Gustavo Sandres, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/334994715)
+
+### Boomslang (*Dispholidus typus*)
+
+- Main image: © Wynand Uys, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15165535)
+- Photo 2: © Robert Taylor, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/638185376)
+
+### Brahminy Blind Snake (*Indotyphlops braminus*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Brazilian Rainbow Boa (*Epicrates cenchria*)
+
+- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98218837)
+- Photo 2: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/98218832)
+- Photo 3: © Vincent A. Vos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/158446770)
+
+### Burmese Python (*Python bivittatus*)
+
+- Main image: © Lawrence Hylton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/178984168)
+- Photo 2: © Lawrence Hylton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/146402018)
+
+### California Kingsnake (*Lampropeltis californiae*)
+
+- Main image: © Connor Long, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/171220855)
+- Photo 2: © Squamata55, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/171194222)
+- Photo 3: © Ross Padilla, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/171194224)
+
+### Cape Cobra (*Naja nivea*)
+
+- Main image: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/325326142)
+- Photo 2: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/262648880)
+
+### Carpet Python (*Morelia spilota*)
+
+- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/158055900)
+- Photo 2: © Ruth Palsson, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/435009120)
+
+### Children's Python (*Antaresia childreni*)
+
+- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/89556036)
+
+### Coachwhip (*Masticophis flagellum*)
+
+- Main image: © Joshua Tree National Park, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/945188)
+
+### Coastal Taipan (*Oxyuranus scutellatus*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/455786066)
+- Photo 2: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/82211207)
+
+### Common Death Adder (*Acanthophis antarcticus*)
+
+- Main image: © Luke Allen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_female_death_adder_in_Smoky_Bay,_South_Australia.jpg)
+- Photo 2: © David Gobbett, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/240209774)
+- Photo 3: © Greg Tasney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/452184255)
+
+### Common European Adder (*Vipera berus*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Common Garter Snake (*Thamnophis sirtalis*)
+
+- Main image: © Tom Kennedy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/172567155)
+- Photo 2: © kclarksdnhmorg, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1520773)
+
+### Common Krait (*Bungarus caeruleus*)
+
+- Main image: © Prashantha Krishna M C, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/94325978)
+- Photo 2: © Teja Yantrapalli, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/445688552)
+
+### Copperhead (*Agkistrodon contortrix*)
+
+- Main image: © Alan Rockefeller, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/242284249)
+
+### Corn Snake (*Pantherophis guttatus*)
+
+- Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/64866146)
+- Photo 2: © Jeremiah Degenhardt, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/347156071)
+- Photo 3: © chloe ⋆˚꩜｡, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/116401885)
+
+### Cottonmouth (*Agkistrodon piscivorus*)
+
+- Main image: © Joshua Liverman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/22637126)
+- Photo 2: © kirk gardner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/74336248)
+- Photo 3: © Mila Turov, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/310878712)
+
+### DeKay's Brown Snake (*Storeria dekayi*)
+
+- Main image: © Dominic, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/477204767)
+
+### Desert Horned Viper (*Cerastes cerastes*)
+
+- Main image: © Samuel GUIRAUDOU, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/455528170)
+- Photo 2: © Julien Renoult, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/12887205)
+- Photo 3: © Mourad Harzallah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/268851377)
+
+### Dice Snake (*Natrix tessellata*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Dumeril's Boa (*Acrantophis dumerili*)
+
+- Main image: © avocat, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/243981645)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/522336102)
+
+### Eastern Brown Snake (*Pseudonaja textilis*)
+
+- Main image: © Matt, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/86409111)
+- Photo 2: © Rod Lowther, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/94107713)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/346795945)
+
+### Eastern Coral Snake (*Micrurus fulvius*)
+
+- Main image: Daniel Estabrooks, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/286627672)
+- Photo 2: © Court Harding, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/129443227)
+- Photo 3: © Siddarth Machado, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/198238314)
+
+### Eastern Diamondback Rattlesnake (*Crotalus adamanteus*)
+
+- Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/88475195)
+- Photo 2: © Scott Allen Davis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/93251976)
+
+### Eastern Green Mamba (*Dendroaspis angusticeps*)
+
+- Main image: © Dick Culbert, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2556129)
+- Photo 2: © AleGranholm, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/2556128)
+
+### Eastern Hognose Snake (*Heterodon platirhinos*)
+
+- Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/198456500)
+- Photo 2: © Sam Kieschnick, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/81998339)
+- Photo 3: © Joshua Liverman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15852091)
+
+### Eastern Indigo Snake (*Drymarchon couperi*)
+
+- Main image: © chloe ⋆˚꩜｡, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/110762822)
+- Photo 2: © Dan Vickers, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/434961990)
+
+### Eastern Kingsnake (*Lampropeltis getula*)
+
+- Main image: AI illustration made for Snake Atlas
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/288764689)
+
+### Eastern Racer (*Coluber constrictor*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/8217293)
+- Photo 2: © Ken-ichi Ueda, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/360294)
+- Photo 3: © Jonathan Eisen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/76041077)
+
+### Eastern Ribbon Snake (*Thamnophis saurita*)
+
+- Main image: © Steven Lamonde, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/265906813)
+
+### Egyptian Cobra (*Naja haje*)
+
+- Main image: © Mourad Harzallah, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/245583145)
+- Photo 2: © Samuel GUIRAUDOU, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/455450455)
+
+### Elephant Trunk Snake (*Acrochordus javanicus*)
+
+- Main image: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/543309286)
+
+### Emerald Tree Boa (*Corallus caninus*)
+
+- Main image: © Kevin Brix, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/329205145)
+- Photo 2: © Dick Culbert, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/94922027)
+- Photo 3: © eloise kerroux, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/236509348)
+
+### Eyelash Viper (*Bothriechis schlegelii*)
+
+- Main image: © Mariana Simmonds, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/351693143)
+- Photo 2: © Oscar Marín, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/28759348)
+- Photo 3: © Loren Cassin Sackett, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/347741337)
+
+### Fer-de-lance (*Bothrops asper*)
+
+- Main image: © Ken-ichi Ueda, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/264715122)
+- Photo 2: © John G. Phillips, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/26010733)
+
+### Gaboon Viper (*Bitis gabonica*)
+
+- Main image: © Nick Schaller, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15572304)
+- Photo 2: © Nick Schaller, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15695713)
+
+### Gopher Snake (*Pituophis catenifer*)
+
+- Main image: © Adrianh M. Orozco, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/244456541)
+
+### Grass Snake (*Natrix natrix*)
+
+- Main image: © Sylvain Montagner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/354414233)
+- Photo 2: © Micha Baum, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/124845228)
+- Photo 3: © Sylvain Montagner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/319158753)
+
+### Gray-banded Kingsnake (*Lampropeltis alterna*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/410317629)
+
+### Green Anaconda (*Eunectes murinus*)
+
+- Main image: © Henrique Nogueira, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/561871675)
+- Photo 2: © Fábio Olmos, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/160176914)
+
+### Green Tree Python (*Morelia viridis*)
+
+- Main image: © Bryce Watts-Parker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/435259669)
+- Photo 2: © Edward Bell, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/56450745)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/725194064)
+
+### Indian Cobra (*Naja naja*)
+
+- Main image: © Aravinth, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/169465348)
+- Photo 2: © Chayant Gonsalves, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/89762452)
+
+### Inland Taipan (*Oxyuranus microlepidotus*)
+
+- Main image: © XLerate, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/61170526)
+- Photo 2: © AllenMcC., [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1206214)
+- Photo 3: © Bjoertvedt, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1206215)
+
+### Kenyan Sand Boa (*Eryx colubrinus*)
+
+- Main image: © Stephanie Dolrenry, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/167386761)
+- Photo 2: © Stephanie Dolrenry, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/465605905)
+
+### King Cobra (*Ophiophagus hannah*)
+
+- Main image: © Abdulla Al Muhairi, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:King_cobra_face.jpg)
+- Photo 2: © Lawrence Hylton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/241177516)
+
+### Long-nosed Snake (*Rhinocheilus lecontei*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Madagascar Tree Boa (*Sanzinia madagascariensis*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/186369039)
+- Photo 2: Marius Burger, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/186369039)
+- Photo 3: © Marco Chan, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/141801439)
+
+### Mangrove Snake (*Boiga dendrophila*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/429515331)
+- Photo 2: © ryan_potts, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/414280174)
+
+### Milk Snake (*Lampropeltis triangulum*)
+
+- Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/181102501)
+
+### Mojave Rattlesnake (*Crotalus scutulatus*)
+
+- Main image: © nmoorhatch, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/300664157)
+- Photo 2: © Jeremiah Degenhardt, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/217539324)
+
+### Monocled Cobra (*Naja kaouthia*)
+
+- Main image: AI illustration made for Snake Atlas
+- Photo 2: © Ramit Singal, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/469688082)
+- Photo 3: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/442195191)
+
+### Mozambique Spitting Cobra (*Naja mossambica*)
+
+- Main image: © Ryan van Huyssteen, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1819604)
+- Photo 2: © i_c_riddell, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/670486)
+- Photo 3: © Sunčana Bradley, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/476970345)
+
+### Northern Rubber Boa (*Charina bottae*)
+
+- Main image: © Parsa Fard, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/517346530)
+- Photo 2: © Kurt Miller, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/368352039)
+- Photo 3: © andrewnydam, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/90770893)
+
+### Northern Water Snake (*Nerodia sipedon*)
+
+- Main image: © David Weisenbeck, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/15458841)
+- Photo 2: © Alie / C.A. Kratzer, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/74170469)
+
+### Nose-horned Viper (*Vipera ammodytes*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/575425392)
+- Photo 2: © Philip Schaffer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/570095431)
+
+### Paradise Tree Snake (*Chrysopelea paradisi*)
+
+- Main image: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/543310755)
+- Photo 2: © Johannes Schuster, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/66822465)
+- Photo 3: © Kristof Zyskowski, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/363557903)
+
+### Puff Adder (*Bitis arietans*)
+
+- Main image: © Bernard DUPONT, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/86411915)
+- Photo 2: © 4028mdk09, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/86411916)
+- Photo 3: © Tony Rebelo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/126447375)
+
+### Pygmy Rattlesnake (*Sistrurus miliarius*)
+
+- Main image: © Court Harding, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/109225999)
+- Photo 2: © Court Harding, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/137665709)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/360911232)
+
+### Red-bellied Black Snake (*Pseudechis porphyriacus*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/78061047)
+- Photo 2: © Doug Beckers, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/72707)
+- Photo 3: © Donald Hobern, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/8470431)
+
+### Reticulated Python (*Malayopython reticulatus*)
+
+- Main image: © John Witton, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/721622660)
+- Photo 2: © Steve Wilson - over 9 million views Thanks !!, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/11395340)
+- Photo 3: © Kyle Zimmerman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/11395416)
+
+### Rhinoceros Viper (*Bitis nasicornis*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/219636029)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/219636029)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/81357307)
+
+### Ring-necked Snake (*Diadophis punctatus*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Rinkhals (*Hemachatus haemachatus*)
+
+- Main image: © nmoorhatch, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/59843087)
+
+### Rosy Boa (*Lichanura trivirgata*)
+
+- Main image: © Melanie J. Davis, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/388075658)
+- Photo 2: © Tereka Lasso, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/100337109)
+
+### Rough Green Snake (*Opheodrys aestivus*)
+
+- Main image: © John Matthew Erickson, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/386106368)
+- Photo 2: © Joshua Liverman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/160342746)
+
+### Russell's Viper (*Daboia russelii*)
+
+- Main image: © Manoj Karingamadathil, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/30649711)
+
+### Saw-scaled Viper (*Echis carinatus*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/322688160)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/322688160)
+
+### Scarlet Kingsnake (*Lampropeltis elapsoides*)
+
+- Main image: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/114425943)
+- Photo 2: © evangrimes, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/114425938)
+- Photo 3: © Jennifer Styrsky, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/59836118)
+
+### Sidewinder (*Crotalus cerastes*)
+
+- Main image: © Roberto Daniel Avila, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/436709377)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/369539626)
+
+### Smooth Green Snake (*Opheodrys vernalis*)
+
+- Main image: © Dustin Snider, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/395128293)
+
+### Smooth Snake (*Coronella austriaca*)
+
+- Main image: © Wouter Beukema, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/415302188)
+- Photo 2: © Conrad Altmann, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/50533718)
+- Photo 3: © B. P. White, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/212744483)
+
+### South American Bushmaster (*Lachesis muta*)
+
+- Main image: AI illustration made for Snake Atlas
+
+### Spotted Python (*Antaresia maculosa*)
+
+- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/89556036)
+
+### Sunbeam Snake (*Xenopeltis unicolor*)
+
+- Main image: AI illustration made for Snake Atlas
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/31324622)
+
+### Tiger Snake (*Notechis scutatus*)
+
+- Main image: AI illustration made for Snake Atlas
+- Photo 2: © Peter Crowcroft, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/55158068)
+
+### Timber Rattlesnake (*Crotalus horridus*)
+
+- Main image: © kirk gardner, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/325928023)
+- Photo 2: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/218050793)
+
+### Wagler's Pit Viper (*Tropidolaemus wagleri*)
+
+- Main image: © diego_cue, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/70494942)
+- Photo 2: © Guido Bohne, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/61765895)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/11273932)
+
+### Western Diamondback Rattlesnake (*Crotalus atrox*)
+
+- Main image: © highsinger, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/255167095)
+- Photo 2: © Mike Lewinski, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/1904884)
+
+### Western Hognose Snake (*Heterodon nasicus*)
+
+- Main image: © Peter Paplanus, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/185211772)
+- Photo 2: © Dean Hester, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/27187755)
+- Photo 3: © francis crawley, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/48959)
+
+### Western Rat Snake (*Pantherophis obsoletus*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/575764844)
+
+### Woma Python (*Aspidites ramsayi*)
+
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/485009936)
+
+### Yellow Anaconda (*Eunectes notaeus*)
+
+- Main image: © Sheelagh Halsey, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/582915715)
+
+### Yellow-bellied Sea Snake (*Hydrophis platurus*)
+
+- Main image: © Aloaiza, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/339304315)
+- Photo 2: © Emily Roberts, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/3751803)
+- Photo 3: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/473475942)
