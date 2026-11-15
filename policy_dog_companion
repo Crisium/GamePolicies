@@ -1,0 +1,366 @@
+# Dog Companion — Privacy Policy
+
+**Effective date:** November 15, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+Dog Companion ("the app") is a guide for dog owners: breed profiles, care, nutrition, health, training, behavior and exercise guides, activity ideas, daily tips, a breed scanner and a dog quiz. This policy explains what information the app handles, and lists the credits and licences of the software, fonts and pictures it is built with.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you do in it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **Favorite breeds:** the breeds you mark with the heart
+- **Quiz scores:** your best score in each quiz topic
+- **Settings:** whether you have seen the welcome screen, and whether the full version has been unlocked
+- **Breed scans:** how many scans the free version has used, and the last photo you scanned (in the app's temporary storage, replaced by the next scan)
+
+The app starts empty: it contains no pre-filled favorites, scores or other personal content. This information is never sent to us or to anyone else. You can clear your favorites and quiz scores in Settings, and everything is deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos:** the app only reads a photo when you choose one yourself in your device's photo picker, or take one for the breed scanner. The photo is never uploaded.
+
+**Breed scanner:** when you scan a photo, a small image-recognition model built into the app looks at it on your device, without an internet connection. The photo is not sent anywhere.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All breed profiles, guides and pictures are built into the app.
+- It does not collect analytics, crash reports, location, contacts, photos or device identifiers. Photos you scan stay on your device.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your microphone, and it does not open the camera itself: for the breed scanner's "Take a photo" it asks your phone's own camera app for one photo, which you take there. The app needs no camera permission.
+
+## Children
+
+The app is a general reference about dogs and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Health information
+
+The care and health information in the app is general guidance and is not veterinary advice. Always ask a veterinarian about your own dog's health.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Credits and licences
+
+## Pictures
+
+- **Photos of the 30 most popular breeds, topic photos, icons and backgrounds:** created for Dog Companion by AxiomaraGames with OpenAI's ChatGPT image generation. They show no real, identifiable people and no third-party artwork. Under OpenAI's terms of use, AxiomaraGames owns the output.
+- **Photos of the other breeds:** from Wikimedia Commons and Flickr (found through Openverse), used under the licence each photographer chose (Creative Commons Attribution, Attribution-ShareAlike, CC0 or public domain), and from Pexels under the Pexels licence (https://www.pexels.com/license/). The photos were cropped and resized for the app; no other changes were made. Each photo's credit is also shown under it on the breed's page. Photographers and licences are listed in the table below.
+- **AxiomaraGames logo:** © AxiomaraGames.
+
+### Breed photos from Wikimedia Commons, Flickr and Pexels
+
+| Breed | Photographer | Licence | Source |
+|---|---|---|---|
+| Affenpinscher | Futurebreak | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg) |
+| Afghan Hound | Luiz Woellner Fotografia | [Pexels licence](https://www.pexels.com/license/) | [Pexels](https://www.pexels.com/photo/17039014/) |
+| Airedale Terrier | Zuni1520 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Airedale-terrier-charles14m.jpg) |
+| Akita | Biser Yanev | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akita_Inu_dog.jpg) |
+| Alaskan Malamute | Antonio Kless | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dog_show_in_Druskininkai.jpg) |
+| Alpine Dachsbracke | Unknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alpenl_Dachsbracke_w.jpg) |
+| American Akita | Ssajou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akita_inu_blanc.jpg) |
+| American Cocker Spaniel | ItsWolfeh | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Romeo_at_3_Years.jpg) |
+| American Foxhound | Unknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AmericanFoxhound.jpg) |
+| American Staffordshire Terrier | Germiona S | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AmstaffGermiona5.jpg) |
+| Andalusian Terrier | Pedro Lozano | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ratonero_Bodeguero_Andaluz2.jpg) |
+| Anglo-Français de Petite Vénerie | Jwh | [CC BY-SA 3.0 lu](https://creativecommons.org/licenses/by-sa/3.0/lu/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anglo-fran%C3%A7ais_de_petite_v%C3%A9nerie,_Derrida-101.jpg) |
+| Appenzeller Sennenhund | Rosa-Maria Rinkl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Appenzeller_Sennenhund-.JPG) |
+| Ariège Pointer | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ariege.jpg) |
+| Australian Cattle Dog | Eva holderegger walser | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ACD_Multi_Ch._Silverbarn%27s_Naava.jpg) |
+| Australian Kelpie | Eva Rinaldi | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Dog_Premiere_(6001631059).jpg) |
+| Australian Silky Terrier | island silks | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02_Australian_Silky_Terrier,_Zack,_spring_2012.jpg) |
+| Australian Terrier | Ketterechts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Australian_Terrier_Kr%C3%BCmel_in_der_Abendsonne.jpg) |
+| Austrian Pinscher | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Austrianpinscherosterreich3.jpg) |
+| Auvergne Pointer | Pleple2000 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_Braque_d%27Auvergne_3pl.jpg) |
+| Azawakh | Pat028 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Azawakh_Fahim_Kel_Az%27Amour_arr%C3%AAt.jpg) |
+| Barbet | Pleple2000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barbet_suka_2009_pl3.jpg) |
+| Basenji | Niko Herlin | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2008-05-01_a_Basenji_03.jpg) |
+| Basset Artésien Normand | Bernt Sønvisen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basset_art%C3%A9sien_normand_2.jpg) |
+| Basset Fauve de Bretagne | Trogain | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basset_fauve_de_bretagne_with_a_bone.jpg) |
+| Basset Hound | Petruss | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raza_Basset_Hound.JPG) |
+| Bavarian Mountain Hound | Antham1616 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deer_Red_Bavarian_Mountain_Hound.jpg) |
+| Beagle-Harrier | Grzes1966 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beagle_harrier.JPG) |
+| Bearded Collie | UniqueAndreas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buberle.JPG) |
+| Beauceron | Gwgrind | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Beauceron_in_Colorado_07.jpg) |
+| Bedlington Terrier | David Owsiany | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diego_juillet2009_014.JPG) |
+| Belgian Shepherd Dog | SheltieBoy from USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HMKC_Christmas_Fun_Run_2012_(8265428196).jpg) |
+| Bergamasco Shepherd | Towncommon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bergamasco-sheepdog-merle-Paola-full.jpg) |
+| Berger Picard | Shana | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IMG_2209Cheyenne.jpg) |
+| Bichon Frise | FOODAOSZEFURJPA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3Shenzhen_%E9%A4%90%E5%BB%B3_restaurant_%E7%99%BD%E8%89%B2%E5%B0%8F%E7%8A%AC_white_pet_dog_walking_%E5%87%BA%E8%A1%97%E6%94%BE%E7%8B%97%E6%B4%BB%E5%8B%95_August_2023_Px3_16.jpg) |
+| Black Norwegian Elkhound | Rvenes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BlackNorwegianElkhound.jpg) |
+| Black Russian Terrier | Stephan Czuratis | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tchiorny_Terrier.jpg) |
+| Black and Tan Coonhound | Thais Vitoria | [Pexels licence](https://www.pexels.com/license/) | [Pexels](https://www.pexels.com/photo/29691707/) |
+| Bloodhound | Asilverstein | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloodhound_Female_Beulah_at_1_year_old_7062x4587_2000-5-28_by_A_Silverstein.jpg) |
+| Bohemian Shepherd | Olga Trnková | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caroline_Fidelis_et_Fortis.jpg) |
+| Bolognese | Bolognese94 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bolognese_feln%C5%91tt_szuka.jpg) |
+| Border Terrier | Flickr user blaner | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Border_Terrier_Image_001.jpg) |
+| Borzoi | Sergey Khantsis | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brindle_Borzoi.jpg) |
+| Bosnian Coarse-haired Hound | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bosniancoarsehairedhound2.jpg) |
+| Bouvier des Ardennes | User Rebo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bouvier_des_Ardennes_-_Ardennentreibhund.jpg) |
+| Bouvier des Flandres | Yorick39 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres036.JPG) |
+| Bracco Italiano | Gábor Essösy | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giotto_BI.jpg) |
+| Brazilian Terrier | Juliana Lopes | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brazilian_Terrier.jpg) |
+| Briard | Alejandro weber | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NinaWeber03.jpg) |
+| Brittany | Pharaoh Hound | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:American_Brittany_standing.jpg) |
+| Broholmer | WLVB | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bjorn_2011.jpg) |
+| Brussels Griffon | Loony bee | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rudy_gryfonik_brabancki.JPG) |
+| Bull Terrier | Robert Tadlock from Westminster | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clowning_around_-_Flickr_-_rtadlock.jpg) |
+| Bullmastiff | Fausto Moreno | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bullmastiff_edited.JPG) |
+| Ca de Bou | Noukas Bande | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JEUNE_M%C3%82LE_DOGUE_DE_MAJORQUE_FAUVE_A_MASQUE_NOIR.JPG) |
+| Cairn Terrier | Amanxseattle | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cairn501.jpg) |
+| Campeiro Bulldog | André Lage Freitas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buldogue_(Bulldog)_Campeiro.JPG) |
+| Canaan Dog | Giora Sluzky | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canaan_Dog_(un_maschio_di_3_anni).jpg) |
+| Cane Corso | St7878 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cone_corsa321.JPG) |
+| Cardigan Welsh Corgi | FatFairfax | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welsh_Corgi_Cardigan_Dog_Rocks.jpg) |
+| Catalan Sheepdog | Svenska Mässan from Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grupp_1,_GOS_D%E2%80%99ATURA_CATAL%C3%81,_C.I.B.%26NORD_UCH_EUW-12_EUW-15_FI_V-11_FI_V-12_FI_V-13_IT_CH_NO_V-12_NORD_V-10_NORD_V-12_NORD_V-13_RO_CH_SE_V-12_SE_V-13_SE_V-15_WW-14_Atengos_Great_Pretender_(23683386203).jpg) |
+| Caucasian Shepherd Dog | Zeshor | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berger_du_caucase.jpg) |
+| Central Asian Shepherd Dog | Nikolai Bulykin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%B0%D1%82%D0%BE_%D0%90%D1%81%D1%81%D1%8B,_%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%B9_%D1%83_%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B8_(3).jpg) |
+| Cesky Terrier | ceskyfreund36 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cesky-terrier-144741_640.jpg) |
+| Chesapeake Bay Retriever | Keith Rousseau | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chesapeake_Bay_Retriever1.jpg) |
+| Chinese Crested | Rhododendrites | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chinese_crested_dog_on_the_beach_(92659).jpg) |
+| Chow Chow | Aaron Conklin conklincreates | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delilah_On_Patrol_(Unsplash).jpg) |
+| Cimarrón Uruguayo | Montes105 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_foto_de_Dingo.jpg) |
+| Cirneco dell'Etna | Vignazzi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CIRNECO_DELL%27ETNA,_MASCHIO_DI_3_ANNI.jpg) |
+| Clumber Spaniel | Lara | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clumber_Spaniel_on_Grass.jpg) |
+| Continental Toy Spaniel | kazu end | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Phalene_prone_0001.jpg) |
+| Coton de Tuléar | Jean | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coton_de_Tulear_dog.jpg) |
+| Croatian Sheepdog | Michala Mračková | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gera062005sed.jpg) |
+| Curly-coated Retriever | Mattias Agar | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg) |
+| Czechoslovakian Wolfdog | wilczakrew | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eetee_II.jpg) |
+| Danish-Swedish Farmdog | Danish-swedish farmdog | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Breed_typical_female_correct_type,_proportions,_colors_and_size.jpg) |
+| Dogo Argentino | Ricardo Martins from Gent, Belgium | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Argentine_Dogo_(535032632).jpg) |
+| Dogue de Bordeaux | StBrecht at German Wikipedia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dogue_de_Bordeaux_standing_original.jpg) |
+| Drentsche Partridge Dog | Stefanie Joksch | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drentsche_Patrijshond.jpg) |
+| Dutch Schapendoes | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schapendoes_black_%26_grey_1.jpg) |
+| Dutch Shepherd | John | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hollandse_Herdershond_sitting.jpg) |
+| East Siberian Laika | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eastsiberian-agouti1.jpg) |
+| English Pointer | Anne Hornyak | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:English_Pointer_001.jpg) |
+| English Setter | Fisher99 | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bluebeltonsetter.JPG) |
+| English Springer Spaniel | The Boy that time forgot | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Springer_Spaniel.jpg) |
+| English Toy Terrier | Lil Shepherd | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:EnglishToyTerrier2.jpg) |
+| Entlebucher Mountain Dog | Leuchtender Hund | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entlebucher.jpg) |
+| Estonian Hound | RabbitUA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Estonian_Hound_2013.jpg) |
+| Estrela Mountain Dog | gailhampshire from Cradley, Malvern, U.K | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog,_bitch_(20249089853).jpg) |
+| Eurasier | Jörg Heimann | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eurasier_wolfsgrau_2.jpg) |
+| Field Spaniel | Peter | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Field_Spaniel.jpg) |
+| Fila Brasileiro | Jacekjarz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fila2.JPG) |
+| Finnish Hound | EtäKärppä | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Finnish_Hound.jpg) |
+| Finnish Lapphund | Svenska Mässan from Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grupp_5_FINSK_LAPPHUND,_Black_Blossom_Troll_Raffi_(23659980864).jpg) |
+| Finnish Spitz | Karelgerda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FINNISH_SPITZ.jpg) |
+| Flat-coated Retriever | Fesoj-wr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever.jpg) |
+| French Pointer (Gascogne Type) | Johami | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bahia_c_d_beskuren.jpg) |
+| Galgo Español | Basotxerri | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Benasque_-_Linsoles_-_Galgo_01.jpg) |
+| Gascon Saintongeois | Jérôme BARDIAU | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Petit_Gascon_de_Saintonge_femelle.jpg) |
+| German Hound | Rumo | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DeutscheBracke.jpg) |
+| German Hunting Terrier | Pochekitalat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cikesz_Jagdterrier_003.jpg) |
+| German Longhaired Pointer | NLVince91 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:German_Longhaired_Pointer.jpg) |
+| German Pinscher | Unknown author | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:German_Pinscher.JPG) |
+| German Spaniel | Petra Stoll | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xylon3.jpg) |
+| German Spitz | Joselodos | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Happy_white_pomeranian.jpg) |
+| German Wirehaired Pointer | Nero2006 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:German_Wirehaired_Pointer.JPG) |
+| Giant Schnauzer | ZiskaHexe | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ZiskavonderTalm%C3%BChle.jpg) |
+| Glen of Imaal Terrier | AroveLST | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12_Week_old_female_Wheaten_Glen_of_Imaal_Terrier.jpg) |
+| Gordon Setter | Markgrogers | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nike_the_Gordon_Setter_(18_June_2005).jpg) |
+| Grand Basset Griffon Vendéen | Walbharri | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GrandBassettGriffonVend%C3%A9en.jpg) |
+| Greater Swiss Mountain Dog | KIKKUZZO88 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balu.jpg) |
+| Greenland Dog | Slaunger, edited by Thegreenj | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02_sample.jpg) |
+| Greyhound | Abril Ulfe | [Pexels licence](https://www.pexels.com/license/) | [Pexels](https://www.pexels.com/photo/33713081/) |
+| Hanoverian Scent Hound | TobiasHR | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hanover_Hound.jpg) |
+| Harrier | Evforce | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eva-5wsm.jpg) |
+| Havanese | Scheepers100 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jazzy_Havanezer.JPG) |
+| Hellenic Hound | Georging | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hellinikos_Ichnilatis_down.JPG) |
+| Hokkaido | Magdalena Niemiec | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hokkaido_04.jpg) |
+| Hovawart | Dr. Dirk Hilberg, Blankenfelde | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hovawart_blond_01.JPG) |
+| Hungarian Vizsla | Florrez Maximal | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drei_Jahre_alter_Vizsla_Deckr%C3%BCde_mit_Tochter.jpg) |
+| Hygen Hound | Bjørn Konestabo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norwegian_Hygenhound.jpg) |
+| Ibizan Hound | Colin West | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:500px_photo_(44951654).jpeg) |
+| Icelandic Sheepdog | cogdogblog | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Month_in_Iceland_(3031991806).jpg) |
+| Irish Red and White Setter | Ordinary Guy | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irish_Red_and_White_Setter.jpg) |
+| Irish Setter | Henktenklooster | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irishsetteronpoint.JPG) |
+| Irish Terrier | Goldmull | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irish_Terrier_DSC_2126a.jpg) |
+| Irish Water Spaniel | Roete002 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg) |
+| Irish Wolfhound | Airwolfhound | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drew_-_Irish_Wolfhound_(21563647229).jpg) |
+| Istrian Short-haired Hound | Mirta12 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Luri.JPG) |
+| Italian Greyhound | christina | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Italian_Greyhound_standing_gray.jpg) |
+| Japanese Chin | Joliot | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chin_posing.jpg) |
+| Japanese Spitz | Yuliya Strizhkina; Ilona Didkovska | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japanese_spitz_(Nihon_Supittsu)_Simba_Kiev_Ukraine.jpg) |
+| Japanese Terrier | Pleple2000 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japanese_Terrier_22.04.2012_3pl.jpg) |
+| Jämthund | Arto Pääkkönen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:J%C3%A4mthund_(Swedish_Elkhound)_in_the_woods-_2_years_old_male-_2013-07-06_13-55.jpg) |
+| Kai Ken | Plopperdeplop1 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takaikennel.jpg) |
+| Kangal Shepherd Dog | Kangalshepherddog | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kangal_front_on.jpg) |
+| Karelian Bear Dog | Fraczek.marcin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG) |
+| Kazakh Tazy | Erin Brierley | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chelsi,_the_rare_and_ancient_Kazakh_Tazy,_treasure_of_the_Kazakh_PEople,_World_Dog_Show_2026,_Bologna,_Italy_(55334357160).jpg) |
+| Kerry Blue Terrier | Seongbin Im | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier_(%EC%BC%80%EB%A6%AC%EB%B8%94%EB%A3%A8%ED%85%8C%EB%A6%AC%EC%96%B4).jpg) |
+| King Charles Spaniel | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:King_Charles_Spaniel_Blenheim_1.jpg) |
+| Kintamani-Bali Dog | Canarian | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balinkintamanijuniori3.jpg) |
+| Kishu Ken | Jared Brotman | [Pexels licence](https://www.pexels.com/license/) | [Pexels](https://www.pexels.com/photo/32026046/) |
+| Kooikerhondje | Harriet Bedell-Pearce | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KooikerhondjePuppy_01.jpg) |
+| Korean Jindo | Corncheese21 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jindo_wiki.jpg) |
+| Korthals Griffon | Clem09082000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Griffon_d%27arr%C3%AAt_%C3%A0_poils_dur_Korthals.jpg) |
+| Kromfohrländer | Marc Rünger | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kromfohrlaender_rauhaar_liegend.jpg) |
+| Kuvasz | Szora | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kuvaszkutya.jpg) |
+| Lagotto Romagnolo | Entheta | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bellalagotto2.jpg) |
+| Lancashire Heeler | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LancashireHee4.jpg) |
+| Landseer | Stefan Bellini | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AbbyMaus2.JPG) |
+| Lapponian Herder | Svenska Mässan from Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BIR_Grupp_5-_LAPPSK_VALLHUND,_NO_U(KV)CH_NORD_JV-14_Raiddockas_%C3%85ckra_(24234227835).jpg) |
+| Leonberger | Sara Landvogt at de.wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leonberger_Huendin.JPG) |
+| Lhasa Apso | Asra Valorshon from Red Wing, United States | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lhasa_Apso_(2772603427).jpg) |
+| Magyar Agár | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HungarianGrey1.jpg) |
+| Majorca Shepherd Dog | Kriegerkalle | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ca_de_bestiar.jpg) |
+| Maltese | CulmSee-Axel-acad.2161 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LuLu_2017-10-26_n.jpg) |
+| Manchester Terrier | Svenska Mässan from Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grupp_3,_MANCHESTERTERRIER,_NORD_UCH_Tsar-Ping%E2%80%99s_roller_Coaster_Sigyn_(24227701621).jpg) |
+| Maremma Sheepdog | Justlettersandnumbers | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pastore_Maremmano-Abruzzese,_old_dog.jpg) |
+| Mastiff | Contesse du Hohwald | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corto_von_der_Villa_Graf_(2).jpg) |
+| Miniature American Shepherd | Laneyclark | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MAS-Bond.jpg) |
+| Miniature Bull Terrier | Darmaninjl | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Helina-bull-terrier-miniature.jpg) |
+| Miniature Pinscher | Noafp10 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pinscher_3.jpg) |
+| Neapolitan Mastiff | 3268zauber | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mastino_Napoletano_R%C3%BCde.JPG) |
+| Newfoundland | Hartmann Linge | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:201210071658d.jpg) |
+| Norfolk Terrier | Pingugu | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Picture_of_Norfolk_Terrier.jpg) |
+| Norwegian Buhund | Canossa | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buhunden.jpg) |
+| Norwegian Elkhound | Dmitry Guskov | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norwegian_Elkhound_1.jpg) |
+| Norwegian Lundehund | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NorwegianLunde2.jpg) |
+| Norwich Terrier | Gamma Corvi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NorwichTerrier_Elvis.jpg) |
+| Nova Scotia Duck Tolling Retriever | MBoeckaerts | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Volwassen_teef_met_witte_accentkleur.jpg) |
+| Old English Sheepdog | Bobtailotake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bobtail_otak%C3%A9_chien.jpg) |
+| Otterhound | Dale D. McDonald | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blackforrestotterhound.JPG) |
+| Parson Russell Terrier | Rabensteiner | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parson_Russell_Faehe.jpg) |
+| Pekingese | Hugo.arg | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pekingese002.JPG) |
+| Peruvian Hairless Dog | Arnevold | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PeruvianDog.jpg) |
+| Petit Basset Griffon Vendéen | Nathan150 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Petit_Basset_Griffon_Vend%C3%A9en.jpg) |
+| Petit Brabançon | Ger Dekker | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Petit_Braban%C3%A7on.jpg) |
+| Pharaoh Hound | Frank Vincentz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Malta_-_Siggiewi_-_Misrah_Ghar_il-Kbir_-_Pharaoh_Hound_04_ies_(cropped).jpg) |
+| Picardy Spaniel | APictche | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Behen,_(FR-80),_Bainast,_ch%C3%A2teau_(%C3%A9pagneul_picard).jpg) |
+| Polish Greyhound | Pribojchartpolski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AddText_02-05-05.08.36.jpg) |
+| Polish Hound | Unknown author | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG) |
+| Polish Hunting Dog | Янковский Евгений | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B0%D0%B3%D0%BE%D1%82_7.JPG) |
+| Polish Lowland Sheepdog | Nizina | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Argo-Jack_von_Nora%27s_Nizina.JPG) |
+| Portuguese Podengo | UsernameDrama0909 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portuguese_Podengo_Pequeno_Smooth_Coat_.jpg) |
+| Portuguese Pointer | Afonso Silva~commonswiki | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portuguese_pointer_11yo.jpg) |
+| Portuguese Sheepdog | Jmanur | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSA-LN-CT.jpg) |
+| Portuguese Water Dog | TempusAdMiraculum | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portugalski_pies_dowodny(5).jpg) |
+| Posavac Hound | Bonko76 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Posavski_goni%C4%8D_Bonko_12.jpg) |
+| Prague Ratter | Tomáš Čepička | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Prague_Ratter.jpg) |
+| Presa Canario | MalleMientje | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jav%C3%A9_(cropped).jpg) |
+| Pudelpointer | Sciencia58 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pudelpointer_1.jpg) |
+| Puli | Sierra1Zero | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chaos_in_the_Gazebo_on_Hoffaker_Hill_-_panoramio.jpg) |
+| Pumi | Schenda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schenda_27.08.12_(22).jpg) |
+| Pyrenean Mastiff | Otaula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bachata.jpg) |
+| Pyrenean Mountain Dog | Flickr user striatic | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Pyrenees_sitting.jpg) |
+| Pyrenean Sheepdog (Long-haired) | A. Köppl | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berger_des_Pyr%C3%A9n%C3%A9es_Ilja_vom_Lechnix.jpg) |
+| Rafeiro do Alentejo | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rafeirodoalentejobrindlewhite3.jpg) |
+| Rhodesian Ridgeback | Petrwegr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arlo_Equinox.jpg) |
+| Romanian Carpathian Shepherd Dog | Alex Zelenko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carpathian_Sheepdog-1.jpg) |
+| Romanian Mioritic Shepherd Dog | DorinRodina | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ciobanesc_Mioritic.JPG) |
+| Rough Collie | Yasu w | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rough-Collie-japan08_(cropped).jpg) |
+| Russian Toy | Dahmsto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Russkiy_Toy_Kurzhaar.jpg) |
+| Saarloos Wolfdog | Claudia Schröder | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oishani_Othari_van_Koekie%27s_Ranch_in_Snow.JPG) |
+| Saint Miguel Cattle Dog | Pleple2000 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_C%C3%A3o_Fila_de_S%C3%A3o_Miguel_3pl.jpg) |
+| Saluki | ReyCep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DCB_Saddam.jpg) |
+| Samoyed | Dllu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Samoyed_dog_two_year_old_female_dllu.jpg) |
+| Schillerstövare | Lilly M | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Go%C5%84czy_schillera_LM.jpg) |
+| Schipperke | Bingar1234 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shipp_23_QurreS06.jpg) |
+| Scottish Deerhound | Sisteskrik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karrie.JPG) |
+| Scottish Terrier | RDNE Stock project | [Pexels licence](https://www.pexels.com/license/) | [Pexels](https://www.pexels.com/photo/7755249/) |
+| Sealyham Terrier | Pleple2000 | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sealyham_terrier_j89.jpg) |
+| Segugio Italiano (Short-haired) | Curzio Cavicchioli | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Segugio_italiano_nero_focato.jpg) |
+| Segugio Maremmano | Canarian | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maremmanakkarkea1.jpg) |
+| Serbian Hound | Android90 | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Serbian_Hound_Face.JPG) |
+| Shar Pei | Johannes Maximilian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rocky_m%C3%A9g_mindig_b%C3%BCd%C3%B6s.jpg) |
+| Shiba Inu | Raita Futo from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mame_shiba_dog_(52368813513).jpg) |
+| Shikoku | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shikoku-red1.jpg) |
+| Sloughi | Dr. Sabine Schlenkrich | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sloughi.jpg) |
+| Slovakian Wirehaired Pointer | Martina Vernerová | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg) |
+| Small Münsterländer | NicoleImboden | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filou_vom_Stanserhorn_der_kleine_M%C3%BCnsterl%C3%A4nder.jpg) |
+| Small Swiss Hound | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smallbernesekurz1.jpg) |
+| Smooth Collie | Svenska Mässan from Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:COLLIE,_KORTH%C3%85RIG,_T%C3%B6rnskogens_Noa_Noa_(23662651134).jpg) |
+| Smooth Fox Terrier | Piotr Pietryka | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fox_in_the_forest.JPG) |
+| Soft Coated Wheaten Terrier | SusanSmithGSU | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_Irish_Soft_Coated_Wheaten_Terrier.jpg) |
+| Spanish Mastiff | Eduardo Diez Viñuela | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_(26232159).jpeg) |
+| Spanish Water Dog | Natalia Ricci | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%B0.jpg) |
+| Spinone Italiano | Caroline Granycome | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spinone_Italiano.jpg) |
+| St Bernard | Rafael Dominguez Rodriguez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rey_nieve.jpg) |
+| Stabyhoun | Sjoerd.klaveringa | [CC BY-SA 2.5 nl](https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Friese_Stabij_P6180863.JPG) |
+| Staffordshire Bull Terrier | claralieu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Staffordshire_Bull_Terrier_02.jpg) |
+| Standard Schnauzer | “begin(bixentebegin)” | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schauzer_mittel2.jpg) |
+| Styrian Coarse-haired Hound | Unknown author | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Steirische_Rauhhaarbracke.jpg) |
+| Swedish Lapphund | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SwedishLapp2.jpg) |
+| Swedish Vallhund | TS Eriksson | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg) |
+| Swiss Hound | Jaroslav Kučík | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vycvik_Stopy_(3).JPG) |
+| Taiwan Dog | Cho Hsun Lu | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dog_With_Yellow_Rapeseed_(242833099).jpeg) |
+| Tatra Shepherd Dog | Kessy13 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stoderzinken_2.jpg) |
+| Thai Ridgeback | SvennoFischer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunray_vom_Crown_Hill.jpeg) |
+| Tibetan Mastiff | Rxma.ne | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reiya_GELUGPA.jpg) |
+| Tibetan Spaniel | marfloshe | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Flickr](https://www.flickr.com/photos/7282029@N06/2039444072) |
+| Tibetan Terrier | stsnck | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tatyana--3_years_and_2_months_old.jpg) |
+| Tornjak | Tomasz Waśko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TornjakPL4.jpg) |
+| Tosa | Susihurtan | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kronos_vauhdissa.JPG) |
+| Tyrolean Hound | Ingrid F. | [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tiroler_Bracke.jpg) |
+| Valencian Terrier | Falconaumanni | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Perro_Ratonero_Valenciano.jpg) |
+| Volpino Italiano | Lilly M real name: Małgorzata Miłaszewska | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Szpic_miniaturowy_Volpino_MWPR_Katowice_2008.JPG) |
+| Weimaraner | Rufus46 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Weimaraner_Freika-11.jpg) |
+| Welsh Springer Spaniel | Siri | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Young_Welsh_Springer_Spaniel.jpg) |
+| Welsh Terrier | Blackcuda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welshterrier2.jpg) |
+| West Highland White Terrier | Gordito1869 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WestiPudel_1.JPG) |
+| West Siberian Laika | LS | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Westsibirischer_Laika.jpg) |
+| Westphalian Dachsbracke | Stute.s | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Westf%C3%A4lische-dachsbracke.JPG) |
+| Wetterhoun | mjk23 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wetterhond4.jpg) |
+| White Swiss Shepherd Dog | Helen Thalen | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stella-Nova.jpg) |
+| Wire Fox Terrier | Jukka Wallin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%84ht%C3%A4ri_syksy_2018.jpg) |
+| Wirehaired Vizsla | Georg Ruecker | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drahthaarvizsla.jpg) |
+| Xoloitzcuintle | Canarian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:XoloLarge1.jpg) |
+| Yakutian Laika | Yalaika | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yakutskaya_Laika_Winter_Wiki.jpg) |
+| Český Fousek | Adam Kliczek | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cesky_Fousek_Betty.jpg) |
+| Šarplaninac | Sakal33 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sarplaninac_male_dog_Muri-Em%C3%ADr_2_years_old.jpg) |
+
+## Breed scanner
+
+The breed scanner's image-recognition model (based on EfficientNet-B0, pretrained on ImageNet and published with the PyTorch torchvision library under the BSD 3-Clause licence) was trained by AxiomaraGames on:
+
+- photos of dog breeds from **Wikimedia Commons**, each used under its own free licence (Creative Commons or public domain), and the breed photos listed above;
+- the **Oxford-IIIT Pet Dataset** by O. M. Parkhi, A. Vedaldi, A. Zisserman and C. V. Jawahar (Visual Geometry Group, University of Oxford), used under the [Creative Commons Attribution-ShareAlike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/): https://www.robots.ox.ac.uk/~vgg/data/pets/
+- photos without dogs from Wikimedia Commons (rooms, people, other animals, food, gardens, toys), so it can tell when a photo shows no dog.
+
+The photos themselves are not part of the app; only the model learnt from them is. No photographer or dataset author endorses the app.
+
+## Fonts
+
+**Fira Sans Condensed** (Regular, Medium, SemiBold), © 2012–2015 The Mozilla Foundation and Telefonica S.A., used under the **SIL Open Font License, Version 1.1**: https://openfontlicense.org
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+## ONNX Runtime
+
+The breed scanner runs its model with ONNX Runtime 1.31, © Microsoft Corporation, under the **MIT License**.
+
+- Project: https://github.com/microsoft/onnxruntime
+- The licence: https://github.com/microsoft/onnxruntime/blob/main/LICENSE
+
+## Google Play Billing Library
+
+The in-app purchase uses the Google Play Billing Library, © Google LLC, under the Android Software Development Kit License: https://developer.android.com/studio/terms
+
+## AndroidX
+
+AndroidX Core, © The Android Open Source Project, under the **Apache License 2.0**: https://www.apache.org/licenses/LICENSE-2.0
