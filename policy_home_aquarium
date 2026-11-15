@@ -1,0 +1,175 @@
+# Home Aquarium: Privacy Policy
+
+**Effective date:** November 9, 2026
+**Developer:** AxiomaraGames (Peter Wraae Marino)
+**Contact:** axiomaragames@gmail.com
+
+Home Aquarium ("the app") is a guide and companion for freshwater aquarium keepers: fish species profiles, tank setup, water quality, feeding, plant and health guides, a compatibility checker, calculators, a quiz, and a log for your own tanks. This policy explains what information the app handles, and lists the credits and licences for the software, fonts and pictures it contains.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you enter stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **My Tanks:** the tanks you add (the name and volume you give them, how often you change water), the dates of your water changes, the water test readings you enter, and the species you mark as living in each tank
+- **Favorites:** the species you mark with the heart
+- **Quiz scores:** your best score in each quiz
+- **Settings:** your units (°C or °F, litres or gallons) and whether you have seen the welcome screen
+- **Full version:** whether the full version has been unlocked, so it stays unlocked when you are offline
+
+This information is never sent to us or to anyone else. You can delete it at any time in Settings > Clear all my data, and it is deleted when you uninstall the app or clear its data in your device's settings. If you use Android's own device backup, Android may include these settings in your backup to your Google account; that backup is handled by Google, not by us.
+
+The app starts empty: it contains no example tanks, favourites or other entries.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All species profiles, guides and pictures are built into the app.
+- It does not collect analytics, crash reports, location, contacts, photos or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your camera or microphone.
+- It does not send notifications.
+
+## Children
+
+The app is a general reference about aquarium keeping and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Health and care information
+
+The care, water and health information in the app is general guidance for hobbyists. Fish, water and conditions vary. It is not veterinary advice; when in doubt, ask a specialist aquarium shop or an aquatic veterinarian.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, a change cannot affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Credits and licences
+
+## Pictures
+
+- **Species photographs:** some are photographs from Wikimedia Commons, used under free licences and credited one by one in the table "Species photographs from Wikimedia Commons" below. The others were created for Home Aquarium with OpenAI's ChatGPT image generation (AI-generated images).
+- **Plant and aquarium photographs, illustrations and icons:** created for Home Aquarium with OpenAI's ChatGPT image generation (AI-generated images), then cut out, cropped and colour-adjusted by AxiomaraGames. Under OpenAI's terms the output belongs to us, and no third-party attribution is required. AI-generated images are not photographs of real, individual animals.
+- **The AxiomaraGames logo:** © AxiomaraGames, recoloured for this app.
+- **Line icons** (bottom menu, arrows, small symbols): drawn by AxiomaraGames; a few shapes (the gear, heart, search and refresh symbols) follow **Feather Icons** by Cole Bemis, used under the **MIT License**: https://github.com/feathericons/feather/blob/main/LICENSE
+- Background cut-outs were made on our own computer with **rembg** (MIT License, https://github.com/danielgatis/rembg) and the **IS-Net** model (Apache License 2.0, https://github.com/xuebinqin/DIS). Neither is included in the app.
+
+<!-- commons-credits -->
+## Species photographs from Wikimedia Commons
+
+82 species photographs come from Wikimedia Commons and are used under the licence shown. They were cropped and resized for the app (changes made). CC BY-SA photos remain under their CC BY-SA licence.
+
+| Species | Author | Licence | Source |
+|---|---|---|---|
+| African Dwarf Frog | James Gathany | Public domain | [African dwarf frog.jpg](https://commons.wikimedia.org/wiki/File:African_dwarf_frog.jpg) |
+| Agassiz's Dwarf Cichlid | Guérin Nicolas (messages) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Apistogramma agassizii (Wroclaw zoo)-2.JPG](https://commons.wikimedia.org/wiki/File:Apistogramma_agassizii_(Wroclaw_zoo)-2.JPG) |
+| Auratus Cichlid | Vlad Butsky from San Jose, CA, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Melanochromis auratus (female).jpg](https://commons.wikimedia.org/wiki/File:Melanochromis_auratus_(female).jpg) |
+| Bala Shark | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Balantiocheilos melanopterus - Karlsruhe Zoo 02 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Balantiocheilos_melanopterus_-_Karlsruhe_Zoo_02_(cropped).jpg) |
+| Banded Archerfish | Chrumps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Toxotes jaculatrix.jpg](https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix.jpg) |
+| Banded Gourami | Sandipan Das | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Trichogaster fasciata 179813241.jpg](https://commons.wikimedia.org/wiki/File:Trichogaster_fasciata_179813241.jpg) |
+| Black Neon Tetra | Juan R. Lascorz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [10.Hyphessobrycon herbertaxelrodi.JPG](https://commons.wikimedia.org/wiki/File:10.Hyphessobrycon_herbertaxelrodi.JPG) |
+| Black Phantom Tetra | This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Hyphessobrycon megalopterus Porte Doree.jpg](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_megalopterus_Porte_Doree.jpg) |
+| Black Skirt Tetra | emptyvi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Gymnocorymbus ternetzi.JPG](https://commons.wikimedia.org/wiki/File:Gymnocorymbus_ternetzi.JPG) |
+| Bleeding Heart Tetra | 5snake5 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Hyphessobrycon erythrostigma - Kirschflecksalmer.jpg](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_erythrostigma_-_Kirschflecksalmer.jpg) |
+| Boeseman's Rainbowfish | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Melanotaenia boesemani - Karlsruhe Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Melanotaenia_boesemani_-_Karlsruhe_Zoo_01.jpg) |
+| Bolivian Ram | Pia Helminen | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Mikrogeophagus altispinosus.jpg](https://commons.wikimedia.org/wiki/File:Mikrogeophagus_altispinosus.jpg) |
+| Bumblebee Goby | Sven Kullander | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Brachygobius doriae in aquarium.jpg](https://commons.wikimedia.org/wiki/File:Brachygobius_doriae_in_aquarium.jpg) |
+| Chili Rasbora | Atulbhats | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Boraras brigittae.jpg](https://commons.wikimedia.org/wiki/File:Boraras_brigittae.jpg) |
+| Chocolate Gourami | Brian Gratwicke | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Chocolate gourami, Sphaerichthys osphromenoides.jpg](https://commons.wikimedia.org/wiki/File:Chocolate_gourami,_Sphaerichthys_osphromenoides.jpg) |
+| Clown Killifish | Dornenwolf | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Ringelhechtling -Epiplatys annulatus.jpg](https://commons.wikimedia.org/wiki/File:Ringelhechtling_-Epiplatys_annulatus.jpg) |
+| Clown Loach | Vlad Butsky from San Jose, CA, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Chromobotia macracanthus.jpg](https://commons.wikimedia.org/wiki/File:Chromobotia_macracanthus.jpg) |
+| Cockatoo Dwarf Cichlid | Britzke | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Apistogramma cacatuoides (11120015446).jpg](https://commons.wikimedia.org/wiki/File:Apistogramma_cacatuoides_(11120015446).jpg) |
+| Croaking Gourami | Ahsan\_al\_hidayat | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Trichopsis vittata 2.jpg](https://commons.wikimedia.org/wiki/File:Trichopsis_vittata_2.jpg) |
+| Demasoni Cichlid | Emőke Dénes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Hal - Pseudotropheus demasoni - 3.jpg](https://commons.wikimedia.org/wiki/File:Hal_-_Pseudotropheus_demasoni_-_3.jpg) |
+| Denison Barb | Горбунова М.С. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Sahyadria denisonii in the Leningrad zoo 2.jpg](https://commons.wikimedia.org/wiki/File:Sahyadria_denisonii_in_the_Leningrad_zoo_2.jpg) |
+| Diamond Tetra | SOK | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Moenkhausia pittieri young fish in aquarium.jpg](https://commons.wikimedia.org/wiki/File:Moenkhausia_pittieri_young_fish_in_aquarium.jpg) |
+| Dwarf Chain Loach | Stefan Maurer | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Schachbrettschmerle.jpg](https://commons.wikimedia.org/wiki/File:Schachbrettschmerle.jpg) |
+| Dwarf Pencilfish | D.W. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Nannostomus marginatus, adultes Männchen.jpg](https://commons.wikimedia.org/wiki/File:Nannostomus_marginatus,_adultes_M%C3%A4nnchen.jpg) |
+| Emperor Tetra | 7TP (Krzysztof Bartosik) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Nematobrycon palmeri 1.jpg](https://commons.wikimedia.org/wiki/File:Nematobrycon_palmeri_1.jpg) |
+| European Bitterling | Viridiflavus | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [BittervoornRhodeusAmarusVrouwtje.JPG](https://commons.wikimedia.org/wiki/File:BittervoornRhodeusAmarusVrouwtje.JPG) |
+| Fairy Cichlid | FakirNL | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Neolamprologus brichardi in Ouwehands Dierenpark.jpg](https://commons.wikimedia.org/wiki/File:Neolamprologus_brichardi_in_Ouwehands_Dierenpark.jpg) |
+| Flag Acara | Dnoerholm | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Laetacara Curviceps.jpg](https://commons.wikimedia.org/wiki/File:Laetacara_Curviceps.jpg) |
+| Forktail Blue-eye | Guérin Nicolas (messages) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Pseudomugil furcatus (Wroclaw zoo).JPG](https://commons.wikimedia.org/wiki/File:Pseudomugil_furcatus_(Wroclaw_zoo).JPG) |
+| Giant Danio | Faucon | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Devario aequipinnatus.JPG](https://commons.wikimedia.org/wiki/File:Devario_aequipinnatus.JPG) |
+| Glass Bloodfin Tetra | Chronotopian | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Bloodfin Glass Tetra.jpg](https://commons.wikimedia.org/wiki/File:Bloodfin_Glass_Tetra.jpg) |
+| Glowlight Tetra | h080 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Hemigrammus erythrozonus h080.jpg](https://commons.wikimedia.org/wiki/File:Hemigrammus_erythrozonus_h080.jpg) |
+| Gold Barb | André Karwath aka Aka | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Puntius semifasciolatus (aka).jpg](https://commons.wikimedia.org/wiki/File:Puntius_semifasciolatus_(aka).jpg) |
+| Gold Nugget Pleco | Anne Blindheim | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Baryancistrus-L18.jpg](https://commons.wikimedia.org/wiki/File:Baryancistrus-L18.jpg) |
+| Green Spotted Puffer | Starseed | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Tetraodon nigroviridis 1.jpg](https://commons.wikimedia.org/wiki/File:Tetraodon_nigroviridis_1.jpg) |
+| Green Terror | 5snake5 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Andinoacara rivulatus ♂ - Goldsaumbuntbarsch.jpg](https://commons.wikimedia.org/wiki/File:Andinoacara_rivulatus_%E2%99%82_-_Goldsaumbuntbarsch.jpg) |
+| Hoplo Catfish | 7TP (Krzysztof Bartosik) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Megalechis thoracata 1.jpg](https://commons.wikimedia.org/wiki/File:Megalechis_thoracata_1.jpg) |
+| Jack Dempsey | Bernard DUPONT | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Rocio octofasciata 132678761.jpg](https://commons.wikimedia.org/wiki/File:Rocio_octofasciata_132678761.jpg) |
+| Jewel Cichlid | NasserHalaweh | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Cichlidae Hemichromis bimaculatus 1.jpg](https://commons.wikimedia.org/wiki/File:Cichlidae_Hemichromis_bimaculatus_1.jpg) |
+| Julii Corydoras | Bob Jenkins | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Corydoras trilineatus, 2010.jpg](https://commons.wikimedia.org/wiki/File:Corydoras_trilineatus,_2010.jpg) |
+| Kerri Tetra | SOK | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Hane av kerritetra Inpaichthys kerri.jpg](https://commons.wikimedia.org/wiki/File:Hane_av_kerritetra_Inpaichthys_kerri.jpg) |
+| Kissing Gourami | Amada44 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Helostoma temminckii - 0450.jpg](https://commons.wikimedia.org/wiki/File:Helostoma_temminckii_-_0450.jpg) |
+| Least Killifish | Brian Gratwicke | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Dwarf Livebearer or Least Killifish (Heterandria formosa).jpg](https://commons.wikimedia.org/wiki/File:Dwarf_Livebearer_or_Least_Killifish_(Heterandria_formosa).jpg) |
+| Lemon Cichlid | Mario Rubio García | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Neolamprologus leleupi.jpg](https://commons.wikimedia.org/wiki/File:Neolamprologus_leleupi.jpg) |
+| Lemon Tetra | SOK | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Citrontetra Hyphessobrycon pulchripinnis.jpg](https://commons.wikimedia.org/wiki/File:Citrontetra_Hyphessobrycon_pulchripinnis.jpg) |
+| Lyretail Killifish | KKPCW | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Aphyosemion australe in Higashiyama Zoo.jpg](https://commons.wikimedia.org/wiki/File:Aphyosemion_australe_in_Higashiyama_Zoo.jpg) |
+| Madagascar Rainbowfish | Guérin Nicolas (messages) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Bedotia geayi (Wroclaw zoo)-2.JPG](https://commons.wikimedia.org/wiki/File:Bedotia_geayi_(Wroclaw_zoo)-2.JPG) |
+| Marbled Hatchetfish | SOK, Sven Kullander | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Carnegiella strigata lateral view.jpg](https://commons.wikimedia.org/wiki/File:Carnegiella_strigata_lateral_view.jpg) |
+| Medaka | Seotaro | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Oryzias latipes.jpg](https://commons.wikimedia.org/wiki/File:Oryzias_latipes.jpg) |
+| Moonlight Gourami | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Trichopodus microlepis - Karlsruhe Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Trichopodus_microlepis_-_Karlsruhe_Zoo_01.jpg) |
+| Mystery Snail | MdE | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Pomacea bridgesii MdE 1.jpg](https://commons.wikimedia.org/wiki/File:Pomacea_bridgesii_MdE_1.jpg) |
+| Odessa Barb | Cedricguppy - Loury Cédric | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Pethia padamya - male - AquaPorteDoree 01.JPG](https://commons.wikimedia.org/wiki/File:Pethia_padamya_-_male_-_AquaPorteDoree_01.JPG) |
+| Ornate Tetra | Holger Krisp | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Schmucksalmler Hyphessobrycon bentosi.jpg](https://commons.wikimedia.org/wiki/File:Schmucksalmler_Hyphessobrycon_bentosi.jpg) |
+| Panda Corydoras | Chronotopian | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Panda Corydoras.jpg](https://commons.wikimedia.org/wiki/File:Panda_Corydoras.jpg) |
+| Panda Garra | Marcin Adrian | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Prachtalgenfresser (Panda Garra, Garra flavatra) by Marcin Adrian.jpg](https://commons.wikimedia.org/wiki/File:Prachtalgenfresser_(Panda_Garra,_Garra_flavatra)_by_Marcin_Adrian.jpg) |
+| Peaceful Betta | DefenderRegina | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Betta imbellis (male) 20100512 2.jpg](https://commons.wikimedia.org/wiki/File:Betta_imbellis_(male)_20100512_2.jpg) |
+| Penguin Tetra | Juan R. Lascorz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [03.Thayeria boehlkei.JPG](https://commons.wikimedia.org/wiki/File:03.Thayeria_boehlkei.JPG) |
+| Phoenix Rasbora | Andrewbogott | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Boraras merah4.png](https://commons.wikimedia.org/wiki/File:Boraras_merah4.png) |
+| Rainbow Shark | MerlinSenger at German Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Fransenlipper.JPG](https://commons.wikimedia.org/wiki/File:Fransenlipper.JPG) |
+| Ramshorn Snail | Dat doris | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Planorbella duryi 06.jpg](https://commons.wikimedia.org/wiki/File:Planorbella_duryi_06.jpg) |
+| Red Claw Crab | Marrabbio2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Perisesarma bidens 2.jpg](https://commons.wikimedia.org/wiki/File:Perisesarma_bidens_2.jpg) |
+| Red Phantom Tetra | harum.koh from Kobe city, Japan | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Amazon fish, Red phantom tetra (Hyphessobrycon sweglesi) (15594713287).jpg](https://commons.wikimedia.org/wiki/File:Amazon_fish,_Red_phantom_tetra_(Hyphessobrycon_sweglesi)_(15594713287).jpg) |
+| Red Rainbowfish | Emőke Dénes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Hal - Glossolepis incisus - 2.jpg](https://commons.wikimedia.org/wiki/File:Hal_-_Glossolepis_incisus_-_2.jpg) |
+| Red-bellied Piranha | H. Zell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Pygocentrus nattereri - Karlsruhe Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg) |
+| Red-tailed Black Shark | Astellar87 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Epalzeorhynchos bicolor1.jpg](https://commons.wikimedia.org/wiki/File:Epalzeorhynchos_bicolor1.jpg) |
+| Red-tailed Goodeid | Andrew Bogott | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Xenotoca eiseni San Marcos Male.png](https://commons.wikimedia.org/wiki/File:Xenotoca_eiseni_San_Marcos_Male.png) |
+| Redfin Hap | The original uploader was MidgleyDJ at English Wikipedia. | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Copadichromis borleyi2.jpg](https://commons.wikimedia.org/wiki/File:Copadichromis_borleyi2.jpg) |
+| Rosy Barb | Usien | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Pethia conchonius Prachtbarbe.JPG](https://commons.wikimedia.org/wiki/File:Pethia_conchonius_Prachtbarbe.JPG) |
+| Rosy Tetra | karsten\_s | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Hyphessobrycon rosaceus 35474466.jpg](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_rosaceus_35474466.jpg) |
+| Royal Pleco | EvanBaldonado | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Royal pleco (Panaque nigrolineatus) at the California Academy of Sciences.jpg](https://commons.wikimedia.org/wiki/File:Royal_pleco_(Panaque_nigrolineatus)_at_the_California_Academy_of_Sciences.jpg) |
+| Salvini Cichlid | HenryC88 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Fich2-4.jpg](https://commons.wikimedia.org/wiki/File:Fich2-4.jpg) |
+| Senegal Bichir | 5snake5 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Polypterus senegalus - Senegal-Flösselhecht Portrait.jpg](https://commons.wikimedia.org/wiki/File:Polypterus_senegalus_-_Senegal-Fl%C3%B6sselhecht_Portrait.jpg) |
+| Siamese Algae Eater | aleander2137 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Siamese algae eater (Crossocheilus oblongus).jpg](https://commons.wikimedia.org/wiki/File:Siamese_algae_eater_(Crossocheilus_oblongus).jpg) |
+| Silver Dollar | Greg Hume | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Silver dollar - Metynnis argenteus.jpg](https://commons.wikimedia.org/wiki/File:Silver_dollar_-_Metynnis_argenteus.jpg) |
+| Sparkling Gourami | Dezinformator15 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Sparkling gourami.jpg](https://commons.wikimedia.org/wiki/File:Sparkling_gourami.jpg) |
+| Splash Tetra | Zikamoi | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Copella arnoldi.jpg](https://commons.wikimedia.org/wiki/File:Copella_arnoldi.jpg) |
+| Spotted Blue-eye | Atulbhats | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Getrudae Rainbowfish.jpg](https://commons.wikimedia.org/wiki/File:Getrudae_Rainbowfish.jpg) |
+| Sterba's Corydoras | Matthew Mannell | Public domain | [Corydoras Sterbai.jpg](https://commons.wikimedia.org/wiki/File:Corydoras_Sterbai.jpg) |
+| Thai Micro Crab | Sean Murray from Edinburgh, Scotland | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Limnopilos naiyanetri - (4).jpg](https://commons.wikimedia.org/wiki/File:Limnopilos_naiyanetri_-_(4).jpg) |
+| Twig Catfish | CONTERALLY at Italian Wikipedia | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Farlowella vittata - 20120228.jpeg](https://commons.wikimedia.org/wiki/File:Farlowella_vittata_-_20120228.jpeg) |
+| X-ray Tetra | Richard Bartz, Munich Makro Freak | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Pristella maxillaris.jpg](https://commons.wikimedia.org/wiki/File:Pristella_maxillaris.jpg) |
+| Zebra Loach | Lerdsuwa | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Botia striata.jpg](https://commons.wikimedia.org/wiki/File:Botia_striata.jpg) |
+<!-- /commons-credits -->
+
+## Font
+
+**Fira Sans Condensed** (Regular, Medium, SemiBold), © 2012–2015 The Mozilla Foundation and Telefonica S.A., designed by Carrois Apostrophe, used under the **SIL Open Font License, Version 1.1**: https://openfontlicense.org. The licence text is included with the app's source (fonts/OFL.txt).
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+Qt includes third-party components under their own permissive licences (for example libwebp, BSD 3-Clause, used to show the app's WebP pictures; FreeType, FreeType License; HarfBuzz, MIT License). Their notices are listed at https://doc.qt.io/qt-6/licenses-used-in-qt.html
+
+## Google Play Billing Library and AndroidX
+
+The in-app purchase uses the **Google Play Billing Library** and **AndroidX Core**, © Google LLC, under the **Android Software Development Kit License** and the **Apache License 2.0** respectively: https://developer.android.com/studio/terms and https://www.apache.org/licenses/LICENSE-2.0
