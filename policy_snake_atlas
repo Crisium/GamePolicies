@@ -21,7 +21,7 @@ To work, the app saves the following, **only on your device**:
 
 This information is never sent to us or to anyone else. You can erase it in Settings > Reset my data. It is also deleted when you uninstall the app or clear its data in your device's settings.
 
-**Photos and snake identification:** when you identify a snake, you take a photo with your device's camera app or choose one from your device. The photo is compared with the reference images built into the app, on your device. It is never uploaded or stored by the app. The app does not ask for camera permission itself: taking a photo opens your device's own camera app, which hands that one photo back.
+**Photos and snake identification:** when you identify a snake, you take a photo with your device's camera app or choose one from your device. An image-recognition (AI) model built into the app looks at the photo on your device, without an internet connection. The photo is never uploaded or stored by the app. The app does not ask for camera permission itself: taking a photo opens your device's own camera app, which hands that one photo back.
 
 ## Purchases
 
@@ -37,7 +37,7 @@ The app is free to download. The full version is a one-time in-app purchase made
 
 ## Safety information
 
-The venom, first aid, health and care information in the app is general guidance for education. It is not medical or veterinary advice and does not replace a doctor, a poison center or a veterinarian. Photo identification can be wrong: never use the app to decide whether a snake is safe to approach or handle. After a snakebite, call your local emergency number at once.
+The venom, first aid, health and care information in the app is general guidance for education. It is not medical or veterinary advice and does not replace a doctor, a poison center or a veterinarian. Photo identification is made by an AI model and can be wrong, even when it shows a high percentage: never use the app to decide whether a snake is safe to approach or handle. After a snakebite, call your local emergency number at once.
 
 ## Children
 
@@ -80,6 +80,10 @@ The full-version purchase uses the Google Play Billing Library, © Google LLC, u
 Snake Atlas uses photographs shared by observers on [iNaturalist](https://www.inaturalist.org) and contributors to [Wikimedia Commons](https://commons.wikimedia.org), under the licences named for each one: CC0 (public domain dedication), CC BY or CC BY-SA. Every photograph was cropped, resized and color-adjusted for the app; no other changes were made. Photographs under a CC BY-SA licence are, as adapted, shared under that same licence. The photographers do not endorse Snake Atlas.
 
 The following artwork was created for Snake Atlas with an AI image generator (ChatGPT, OpenAI) and is not a photograph of a real animal or place: the title screen picture, the snake logo, the app icon, the page background, the pictures at the top of the Care Guide, Venom & Safety, Health, Behavior and Breeding guides, the sample photo on the Identify screen, the eight habitat pictures, and any species image marked "AI illustration" below. The AxiomaraGames logo belongs to AxiomaraGames.
+
+## The identification model
+
+The snake identifier is an image-recognition model (EfficientNet-B2, starting from torchvision's ImageNet weights, BSD licence) trained by AxiomaraGames on about 30,000 photographs from [iNaturalist](https://www.inaturalist.org) research-grade observations and [Wikimedia Commons](https://commons.wikimedia.org), all under licences that allow commercial use (CC0, public domain, CC BY or CC BY-SA). The training photographs are not included in the app; only the model learnt from them is. The model runs on your device with [ONNX Runtime](https://onnxruntime.ai) (MIT licence, Microsoft).
 
 ## Species photographs
 
@@ -193,7 +197,7 @@ The following artwork was created for Snake Atlas with an AI image generator (Ch
 
 ### Children's Python (*Antaresia childreni*)
 
-- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/89556036)
+- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/245815745)
 
 ### Coachwhip (*Masticophis flagellum*)
 
@@ -314,7 +318,7 @@ The following artwork was created for Snake Atlas with an AI image generator (Ch
 
 ### Elephant Trunk Snake (*Acrochordus javanicus*)
 
-- Main image: © Ian Dugdale, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/543309286)
+- Main image: © Rushenb, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Acrochordus_javanicus.jpg)
 
 ### Emerald Tree Boa (*Corallus caninus*)
 
@@ -433,7 +437,7 @@ The following artwork was created for Snake Atlas with an AI image generator (Ch
 
 ### Nose-horned Viper (*Vipera ammodytes*)
 
-- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/575425392)
+- Main image: © Philip Schaffer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/570095431)
 - Photo 2: © Philip Schaffer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/570095431)
 
 ### Paradise Tree Snake (*Chrysopelea paradisi*)
@@ -526,7 +530,7 @@ The following artwork was created for Snake Atlas with an AI image generator (Ch
 
 ### Spotted Python (*Antaresia maculosa*)
 
-- Main image: © dhfischer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [iNaturalist](https://www.inaturalist.org/photos/89556036)
+- Main image: iNaturalist observer (public domain), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - [iNaturalist](https://www.inaturalist.org/photos/629098317)
 
 ### Sunbeam Snake (*Xenopeltis unicolor*)
 
