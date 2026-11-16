@@ -1,0 +1,179 @@
+# Parakeet Hub — Privacy Policy
+
+**Effective date:** November 9, 2026
+**Developer:** AxiomaraGames
+**Contact:** axiomaragames@gmail.com
+
+Parakeet Hub ("the app") is a care companion for parakeets and budgies: species profiles, care, diet, health, training, enrichment, behaviour and breeding guides, a food checker, a symptom checker, a new-owner checklist, budgie colour varieties, tips, a quiz, and profiles and care reminders for your own birds. This policy explains what information the app handles, and lists the credits and licences of everything the app is built with.
+
+## Summary
+
+The app does not collect, transmit, sell or share any personal data. Everything you add to it stays on your device.
+
+## Information the app stores on your device
+
+To work, the app saves the following, **only on your device**:
+
+- **My Birds:** the birds you add, with the name, species, sex, approximate birthday and weights you give them, and a photo if you choose one
+- **Care reminders:** your reminders, how often they repeat and when you last did them
+- **Favourites:** the species you save
+- **New-owner checklist:** which items you have ticked
+- **Quiz scores:** your best score per quiz topic
+- **Settings:** whether you have seen the welcome screen and your notification setting
+
+The app comes with no example birds, reminders or favourites: it only holds what you put in yourself.
+
+This information is never sent to us or to anyone else. It is deleted when you uninstall the app or clear its data in your device's settings.
+
+**Photos:** when you give one of your birds a photo, you choose a picture on your device. The app keeps a small copy in its own private storage to show on the bird's profile. It is never uploaded. The app does not use the camera itself.
+
+**Notifications:** if you allow them, the app shows one daily notification listing the care reminders that are due. It is created on your device; no notification server is involved.
+
+## Purchases
+
+The app is free to download. The full version is a one-time in-app purchase made through Google Play. Google Play handles the payment under Google's own terms and privacy policy; we never see your payment details. The app only asks Google Play whether the full version has been bought on your Google account, so it can unlock it, also after a reinstall or on a new device.
+
+## What the app does not do
+
+- It does not ask you to create an account or sign in.
+- It does not connect to our servers or any other server, apart from Google Play for the purchase described above. All profiles, guides and pictures are built into the app.
+- It does not collect analytics, crash reports, location, contacts or device identifiers.
+- It does not show ads and contains no advertising or tracking software.
+- It does not use your camera or microphone.
+
+## Health information
+
+The care and health information in the app is general guidance for bird owners. It is not veterinary advice and does not replace a visit to an avian vet. When your bird seems unwell, contact a vet.
+
+## Children
+
+The app is a general reference about pet birds and is not directed at children. We do not knowingly collect information from anyone, including children, because we collect no information at all.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published at this address with a new effective date. Because the app collects no data, any change will not affect information you have already given us.
+
+## Contact
+
+Questions about this policy: axiomaragames@gmail.com
+
+---
+
+# Credits and attribution
+
+## Pictures
+
+- **Photographs and illustrations** (the English Budgie species photo, the topic photos, most of the budgie colour photos, the quiz pictures, the picture icons and the app icon) were made for Parakeet Hub with OpenAI's image generator in ChatGPT, and edited (cropped, cut out and compressed) by AxiomaraGames.
+- **Free-licence photographs.** These photos are by the photographers named below and are used under the licences given. AxiomaraGames cropped them, resized them and saved them as WebP; the welcome photo was also moved down and its top faded into the app's background. The changed versions in the app are shared under the same licence as the original.
+
+| Picture in the app | Photo and photographer | Licence |
+|---|---|---|
+| Welcome screen | "A green and yellow parakeet sitting on a branch" by David Clode, https://unsplash.com/photos/uutHQEjfx3g | Unsplash License, https://unsplash.com/license |
+| Budgie colour: Albino | "Melopsittacus undulatus -albino in cage-3" by jjvaca, https://commons.wikimedia.org/wiki/File:Melopsittacus_undulatus_-albino_in_cage-3.jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Budgie colour: Grey | "Parc australien - Perruche ondulée 10" by Tylwyth Eldar, https://commons.wikimedia.org/wiki/File:Parc_australien_-_Perruche_ondul%C3%A9e_10.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Budgie colour: Pied | "Green-yellow pied" by Shimura19, https://commons.wikimedia.org/wiki/File:Green-yellow_pied.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Budgie colour: Cinnamon | "Cinnamonmany3" by Mathieu, https://commons.wikimedia.org/wiki/File:Cinnamonmany3.JPG | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Budgie colour: Opaline | "Opaline Parkiet-wiki" by Algont at Dutch Wikipedia, https://commons.wikimedia.org/wiki/File:Opaline_Parkiet-wiki.JPG | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+
+Species photos, also from Wikimedia Commons:
+
+<!-- species photos: written by tools/prep_stock.py -->
+| Species | Photo and photographer | Licence |
+|---|---|---|
+| Budgerigar | "Melopsittacus undulatus - Vogelpark Steinen 01" by H. Zell, https://commons.wikimedia.org/wiki/File:Melopsittacus_undulatus_-_Vogelpark_Steinen_01.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Cockatiel | "Nymphicus hollandicus -zoo-8a" by Abhinaba Basu, https://commons.wikimedia.org/wiki/File:Nymphicus_hollandicus_-zoo-8a.jpg | CC BY 2.0, https://creativecommons.org/licenses/by/2.0 |
+| Bourke's Parakeet | "Bourke's Parrot 1 - Sturt National Park" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Bourke%27s_Parrot_1_-_Sturt_National_Park.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Scarlet-chested Parrot | "Scarlet-chestedParrot Gluepot 2022-05-24" by Nrg800, https://commons.wikimedia.org/wiki/File:Scarlet-chestedParrot_Gluepot_2022-05-24.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Turquoise Parrot | "Turquoise Parrot 2471" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Turquoise_Parrot_2471.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Elegant Parrot | "Elegant Parrot Juvenile (cropped)" by Paulweberphoto, https://commons.wikimedia.org/wiki/File:Elegant_Parrot_Juvenile_(cropped).jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Blue-winged Parrot | "Neophema chrysostoma mortimer 2" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Neophema_chrysostoma_mortimer_2.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Red-rumped Parrot | "Psephotus haematonotus male - Cornwallis Rd" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Mulga Parrot | "Mulga Parrot male 2 - Patchewollock" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Mulga_Parrot_male_2_-_Patchewollock.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Princess Parrot | "Princess Parrot HD pic" by Timothychacko, https://commons.wikimedia.org/wiki/File:Princess_Parrot_HD_pic.JPG | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Superb Parrot | "Superb Parrot 4865" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Superb_Parrot_4865.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Regent Parrot | "Polytelis anthopeplus 346066827" by Kym Nicolson, https://commons.wikimedia.org/wiki/File:Polytelis_anthopeplus_346066827.jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Eastern Rosella | "Platycercus eximius - Maroparque 01" by H. Zell, https://commons.wikimedia.org/wiki/File:Platycercus_eximius_-_Maroparque_01.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Crimson Rosella | "Platycercus elegans in Toohey Forest (6971787816)" by Lyle Radford, https://commons.wikimedia.org/wiki/File:Platycercus_elegans_in_Toohey_Forest_(6971787816).jpg | CC BY 2.0, https://creativecommons.org/licenses/by/2.0 |
+| Pale-headed Rosella | "Pale-headed Rosella - Herbaton" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Pale-headed_Rosella_-_Herbaton.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Western Rosella | "Western Rosella 1" by Paulweberphoto, https://commons.wikimedia.org/wiki/File:Western_Rosella_1.jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Red-capped Parrot | "Red-capped parrot 5" by Paulweberphoto, https://commons.wikimedia.org/wiki/File:Red-capped_parrot_5.jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Australian Ringneck | "Mallee ringneck - Patchewollock Conservation Reserve" by JJ Harrison, https://commons.wikimedia.org/wiki/File:Mallee_ringneck_-_Patchewollock_Conservation_Reserve.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Red-winged Parrot | "Red shouldered parrot male (16687501674)" by Jim Bendon, https://commons.wikimedia.org/wiki/File:Red_shouldered_parrot_male_(16687501674).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Australian King Parrot | "Australian King-Parrot NSW" by Quishaq, https://commons.wikimedia.org/wiki/File:Australian_King-Parrot_NSW.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Red-crowned Kakariki | "Red-crowned parakeet (Cyanoramphus novaezelandiae) Tiritiri Matangi" by Charles J. Sharp, https://commons.wikimedia.org/wiki/File:Red-crowned_parakeet_(Cyanoramphus_novaezelandiae)_Tiritiri_Matangi.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Yellow-crowned Kakariki | "Yellow-crowned parakeet - Kākāriki" by Alexeyevitch, https://commons.wikimedia.org/wiki/File:Yellow-crowned_parakeet_-_K%C4%81k%C4%81riki.jpg | Public domain |
+| Indian Ringneck | "Rose-ringed parakeet in Satpura National Park 06" by Bernard Gagnon, https://commons.wikimedia.org/wiki/File:Rose-ringed_parakeet_in_Satpura_National_Park_06.jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Alexandrine Parakeet | "Cotorra alejandrina (Psittacula eupatria), parque de Topkapı, Estambul, Turquía, 2024-09-30, DD 93" by Diego Delso, https://commons.wikimedia.org/wiki/File:Cotorra_alejandrina_(Psittacula_eupatria),_parque_de_Topkap%C4%B1,_Estambul,_Turqu%C3%ADa,_2024-09-30,_DD_93.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Plum-headed Parakeet | "027 Male Plum-headed parakeet in Jim Corbett National Park Photo by Giles Laurent" by Giles Laurent, https://commons.wikimedia.org/wiki/File:027_Male_Plum-headed_parakeet_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Moustached Parakeet | "Red Breasted Parakeet Facts 01" by Shiv's fotografia, https://commons.wikimedia.org/wiki/File:Red_Breasted_Parakeet_Facts_01.jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Derbyan Parakeet | "普洱国家公园犀牛坪景区 105" by 維基小霸王, https://commons.wikimedia.org/wiki/File:%E6%99%AE%E6%B4%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E7%8A%80%E7%89%9B%E5%9D%AA%E6%99%AF%E5%8C%BA_105.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Slaty-headed Parakeet | "Slaty-headed Parakeet feeding on Kamala fruit 03" by Gannu03, https://commons.wikimedia.org/wiki/File:Slaty-headed_Parakeet_feeding_on_Kamala_fruit_03.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Malabar Parakeet | "Blue-winged Parakeet a Sweet Feast on Rambutan 04" by Shiv's fotografia, https://commons.wikimedia.org/wiki/File:Blue-winged_Parakeet_a_Sweet_Feast_on_Rambutan_04.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Rosy-faced Lovebird | "Rosy-faced lovebird (Agapornis roseicollis roseicollis)" by Charles J. Sharp, https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis).jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Fischer's Lovebird | "046 Fischer's lovebird in the Serengeti National Park Photo by Giles Laurent" by Giles Laurent, https://commons.wikimedia.org/wiki/File:046_Fischer%27s_lovebird_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Masked Lovebird | "Agapornis personatus, TZ" by Raf24~commonswiki, https://commons.wikimedia.org/wiki/File:Agapornis_personatus,_TZ.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Black-cheeked Lovebird | "Black-checked Lovebird RWD" by DickDaniels, https://commons.wikimedia.org/wiki/File:Black-checked_Lovebird_RWD.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Lilian's Lovebird | "Lilian's Lovebird (Agapornis lilianae) (23684435122)" by Lip Kee, https://commons.wikimedia.org/wiki/File:Lilian%27s_Lovebird_(Agapornis_lilianae)_(23684435122).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Abyssinian Lovebird | "Gondar Castle Lovebird (27886076594)" by Chuck Moravec, https://commons.wikimedia.org/wiki/File:Gondar_Castle_Lovebird_(27886076594).jpg | CC BY 2.0, https://creativecommons.org/licenses/by/2.0 |
+| Madagascar Lovebird | "Grey-headed Lovebird, Ankarafantsika, Madagascar" by Frank Vassen, https://commons.wikimedia.org/wiki/File:Grey-headed_Lovebird,_Ankarafantsika,_Madagascar.jpg | CC BY 2.0, https://creativecommons.org/licenses/by/2.0 |
+| Green-cheeked Conure | "Pyrrhura molinae -captive-perch-6a" by Brandon Lim, https://commons.wikimedia.org/wiki/File:Pyrrhura_molinae_-captive-perch-6a.jpg | CC BY 2.0, https://creativecommons.org/licenses/by/2.0 |
+| Sun Conure | "Aratinga solstitialis - Loro Parque 01" by H. Zell, https://commons.wikimedia.org/wiki/File:Aratinga_solstitialis_-_Loro_Parque_01.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Jenday Conure | "Jenday Conure (Aratinga jandaya)" by RIDH-1, https://commons.wikimedia.org/wiki/File:Jenday_Conure_(Aratinga_jandaya).jpg | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 |
+| Nanday Conure | "Nanday parakeet Malibu" by Aojrocks, https://commons.wikimedia.org/wiki/File:Nanday_parakeet_Malibu.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Gold-capped Conure | "Aratinga auricapillus -Jurong Bird Park -8a" by Peter Tan, https://commons.wikimedia.org/wiki/File:Aratinga_auricapillus_-Jurong_Bird_Park_-8a.jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Blue-crowned Conure | "Blue-crowned Parakeet (Aratinga acuticaudata) (29023988940)" by Bernard DUPONT, https://commons.wikimedia.org/wiki/File:Blue-crowned_Parakeet_(Aratinga_acuticaudata)_(29023988940).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Mitred Conure | "Conure mitrée (Psittacara mitrata), Bioparc de Doué-la-Fontaine" by Melvin Toul, https://commons.wikimedia.org/wiki/File:Conure_mitr%C3%A9e_(Psittacara_mitrata),_Bioparc_de_Dou%C3%A9-la-Fontaine.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Red-masked Conure | "Red-masked Parakeet (16189261475)" by Mike's Birds, https://commons.wikimedia.org/wiki/File:Red-masked_Parakeet_(16189261475).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| White-eyed Conure | "Papagaio1" by Eduardo Brumati Beozzo, https://commons.wikimedia.org/wiki/File:Papagaio1.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Dusky-headed Conure | "Periquito-de-cabeça-suja - ESEC Estadual Aratinga - Kennedy Andrade Borges(001)" by Kennedy Andrade Borges, https://commons.wikimedia.org/wiki/File:Periquito-de-cabe%C3%A7a-suja_-_ESEC_Estadual_Aratinga_-_Kennedy_Andrade_Borges(001).jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Peach-fronted Conure | "Peach-fronted Parakeet (Aratinga aurea) (28793620806)" by Bernard DUPONT, https://commons.wikimedia.org/wiki/File:Peach-fronted_Parakeet_(Aratinga_aurea)_(28793620806).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Half-moon Conure | "Eupsittula canicularis, Gulf of Papagayo, Costa Rica 2" by Cwood1 Charlene Wood, https://commons.wikimedia.org/wiki/File:Eupsittula_canicularis,_Gulf_of_Papagayo,_Costa_Rica_2.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Patagonian Conure | "Cyanoliseus patagonus - Maroparque 02" by H. Zell, https://commons.wikimedia.org/wiki/File:Cyanoliseus_patagonus_-_Maroparque_02.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Crimson-bellied Conure | "Pyrrhura perlata - Karlsruhe Zoo 02" by H. Zell, https://commons.wikimedia.org/wiki/File:Pyrrhura_perlata_-_Karlsruhe_Zoo_02.jpg | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0 |
+| Maroon-bellied Conure | "Área de Proteção Ambiental Serra Dona Francisca - Luiz Alves (117)" by @LuizAlves1990, https://commons.wikimedia.org/wiki/File:%C3%81rea_de_Prote%C3%A7%C3%A3o_Ambiental_Serra_Dona_Francisca_-_Luiz_Alves_(117).jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Black-capped Conure | "Pyrrhura rupicola Black-capped Parakeet; Ramal do Noca, Rio Branco, Acre, Brazil" by Hector Bottai, https://commons.wikimedia.org/wiki/File:Pyrrhura_rupicola_Black-capped_Parakeet;_Ramal_do_Noca,_Rio_Branco,_Acre,_Brazil.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Painted Conure | "Pyrrhura picta - Painted parakeet; Presidente Figueiredo, Amazonas, Brazil" by Hector Bottai, https://commons.wikimedia.org/wiki/File:Pyrrhura_picta_-_Painted_parakeet;_Presidente_Figueiredo,_Amazonas,_Brazil.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Pearly Conure | "Pyrrhura-lepida" by Penkinvaltaaja, https://commons.wikimedia.org/wiki/File:Pyrrhura-lepida.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Monk Parakeet | "Monk parakeet (Myiopsitta monachus) Santiago" by Charles J. Sharp, https://commons.wikimedia.org/wiki/File:Monk_parakeet_(Myiopsitta_monachus)_Santiago.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Lineolated Parakeet | "Katharinasittich" by Kathinetzwerk, https://commons.wikimedia.org/wiki/File:Katharinasittich.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Canary-winged Parakeet | "Brotogeris versicolurus Periquito aliblanco Canary-winged Parakeet (8614901936)" by Félix Uribe, https://commons.wikimedia.org/wiki/File:Brotogeris_versicolurus_Periquito_aliblanco_Canary-winged_Parakeet_(8614901936).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Grey-cheeked Parakeet | "Brotogeris pyrrhoptera -Guayas -Ecuador-8" by markaharper1, https://commons.wikimedia.org/wiki/File:Brotogeris_pyrrhoptera_-Guayas_-Ecuador-8.jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Orange-chinned Parakeet | "Brotogeris jugularis (Perico bronceado) - Flickr - Alejandro Bayer (8)" by Alejandro Bayer Tamayo, https://commons.wikimedia.org/wiki/File:Brotogeris_jugularis_(Perico_bronceado)_-_Flickr_-_Alejandro_Bayer_(8).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Yellow-chevroned Parakeet | "153 Yellow-chevroned parakeet in Encontro das Águas State Park Photo by Giles Laurent" by Giles Laurent, https://commons.wikimedia.org/wiki/File:153_Yellow-chevroned_parakeet_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Pacific Parrotlet | "Forpus coelestis -two in Ecuador-8" by markaharper1, https://commons.wikimedia.org/wiki/File:Forpus_coelestis_-two_in_Ecuador-8.jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+| Green-rumped Parrotlet | "Green-rumped parrotlet" by Jam.mohd, https://commons.wikimedia.org/wiki/File:Green-rumped_parrotlet.jpg | CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0 |
+| Spectacled Parrotlet | "Forpus conspicillatus (Perico de anteojos) - Hembra (14021805112)" by Alejandro Bayer Tamayo, https://commons.wikimedia.org/wiki/File:Forpus_conspicillatus_(Perico_de_anteojos)_-_Hembra_(14021805112).jpg | CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0 |
+<!-- /species photos -->
+
+- **The AxiomaraGames logo** is the developer's own, shown in the app's colours.
+- **The line icons** (the bottom menu, arrows, padlock and similar) were drawn for the app by AxiomaraGames.
+
+## Text
+
+The species profiles, care guides, tips, quiz questions, food list and symptom guide were written for Parakeet Hub, based on established parakeet care guidance from avian vets and bird welfare organisations. Where sources differ, the app gives the more cautious advice.
+
+## Font
+
+**Fira Sans Condensed**, © 2012–2015 The Mozilla Foundation and Telefonica S.A., under the **SIL Open Font License, Version 1.1**: https://openfontlicense.org
+
+---
+
+# Licences
+
+Parakeet Hub is built with the following software, used under its licence.
+
+## Qt
+
+The app uses the Qt framework, version 6.10, © The Qt Company Ltd. and other contributors, under the **GNU Lesser General Public License version 3 (LGPLv3)**.
+
+- The licence: https://www.gnu.org/licenses/lgpl-3.0.html
+- Qt's source code: https://code.qt.io and https://download.qt.io/official_releases/qt/
+- The Qt libraries are used unmodified and are linked dynamically, so you may replace them with your own version. To request a copy of the Qt source code used by the app, contact us at the address above.
+
+## Google Play Billing Library
+
+The in-app purchase uses the Google Play Billing Library, © Google LLC, under the Android Software Development Kit License: https://developer.android.com/studio/terms
+
+## Kotlin standard library
+
+Included with the Google Play Billing Library: © JetBrains s.r.o. and Kotlin Programming Language contributors, under the **Apache License 2.0**: https://www.apache.org/licenses/LICENSE-2.0
